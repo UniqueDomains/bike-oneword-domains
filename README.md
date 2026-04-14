@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C851%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C852%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C851%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .bike one-word domains from Unique
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,851 rows · **Live catalog:** 8,851 domains
+**Public extract:** 8,852 rows · **Live catalog:** 8,851 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/bike`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .BIKE one-word domain 
 
 ### Files
 
-- `bike.csv` — public CSV extract (8,851 rows)
-- `bike.json` — public JSON extract (8,851 rows)
+- `bike.csv` — public CSV extract (8,852 rows)
+- `bike.json` — public JSON extract (8,852 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -81,7 +81,7 @@ print(df.head())
 | aaron.bike      | premium   | $85.80    | $85.80        | 88             | 35     | 5      | namecheap                                           |
 | eternal.bike    | available | $14.99    | $50.99        | 92             | 39     | 7      | name.com                                            |
 | cloud.bike      | resell    | —         | —             | 70             | 59     | 5      | GoDaddy.com, LLC                                    |
-| cute.bike       | premium   | $250      | $250          | 82             | 34     | 4      | name.com                                            |
+| cute.bike       | premium   | $250      | $250          | 82             | 32     | 4      | name.com                                            |
 | property.bike   | available | $48.98    | —             | 90             | 39     | 8      | namecheap                                           |
 | free.bike       | resell    | —         | —             | 88             | 57     | 4      | Sav.com, LLC                                        |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,851-row public sample | 8,851 live domains                               |
+| 8,852-row public sample | 8,851 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BIKE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BIKE One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
