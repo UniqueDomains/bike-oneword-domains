@@ -1,22 +1,22 @@
-# Available .BIKE One-Word Domains (8,851)
+# Available .BIKE One-Word Domains (11,554)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C852%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C851%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C554%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .bike one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .bike one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,554 domains** on the canonical page below.
 
-**Public extract:** 8,852 rows · **Live catalog:** 8,851 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,554 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/bike`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .BIKE one-word domain 
 
 ### Files
 
-- `bike.csv` — public CSV extract (8,852 rows)
-- `bike.json` — public JSON extract (8,852 rows)
+- `bike.csv` — public CSV extract (1,000 rows)
+- `bike.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| genius.bike     | available | $14.99    | $50.99        | 98             | 45     | 6      | name.com                                            |
-| kick.bike       | resell    | —         | —             | 98             | 80     | 4      | Spaceship, Inc.                                     |
-| sex.bike        | premium   | $82.50    | —             | 80             | 59     | 3      | name.com                                            |
-| creator.bike    | available | $14.99    | $50.99        | 70             | 45     | 7      | name.com                                            |
-| easy.bike       | resell    | —         | —             | 128            | 68     | 4      | Spaceship, Inc.                                     |
-| all.bike        | premium   | $42.90    | $42.90        | 88             | 48     | 3      | namecheap                                           |
-| forge.bike      | available | $14.99    | $50.99        | 62             | 44     | 5      | name.com                                            |
-| domain.bike     | resell    | —         | —             | 80             | 64     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| big.bike        | premium   | $82.50    | $82.50        | 88             | 47     | 3      | name.com                                            |
-| realestate.bike | available | $48.98    | —             | —              | 40     | 11     | namecheap                                           |
-| home.bike       | resell    | —         | —             | 100            | 62     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| mark.bike       | premium   | $250      | $250          | 66             | 41     | 4      | name.com                                            |
-| gather.bike     | available | $14.99    | $50.99        | 96             | 39     | 6      | name.com                                            |
-| tesla.bike      | resell    | —         | —             | 86             | 61     | 5      | Sav.com, LLC - 41                                   |
-| aaron.bike      | premium   | $85.80    | $85.80        | 88             | 35     | 5      | namecheap                                           |
-| eternal.bike    | available | $14.99    | $50.99        | 92             | 39     | 7      | name.com                                            |
-| cloud.bike      | resell    | —         | —             | 70             | 59     | 5      | GoDaddy.com, LLC                                    |
-| cute.bike       | premium   | $250      | $250          | 82             | 32     | 4      | name.com                                            |
-| property.bike   | available | $48.98    | —             | 90             | 39     | 8      | namecheap                                           |
-| free.bike       | resell    | —         | —             | 88             | 57     | 4      | Sav.com, LLC                                        |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| shortcuts.bike | available | $14.99    | —             | 48             | 41     | 10     | name.com                   |
+| cars.bike      | resell    | —         | —             | 66             | 47     | 4      | Dynadot Inc                |
+| bicycles.bike  | premium   | $242      | $242          | 68             | 9      | 8      | namesilo                   |
+| matcha.bike    | available | $14.99    | —             | 86             | 39     | 6      | name.com                   |
+| skills.bike    | resell    | —         | —             | 58             | 47     | 6      | Cronon GmbH                |
+| carols.bike    | premium   | $46.20    | $46.20        | 56             | 7      | 6      | namecheap                  |
+| tokens.bike    | available | $14.99    | —             | 51             | 36     | 6      | name.com                   |
+| lets.bike      | resell    | —         | —             | 77             | 39     | 4      | Dynadot Inc                |
+| tickets.bike   | available | $14.99    | —             | 64             | 34     | 7      | name.com                   |
+| brands.bike    | resell    | —         | —             | 62             | 28     | 6      | GoDaddy.com, LLC           |
+| spectra.bike   | available | $14.99    | —             | 62             | 34     | 7      | name.com                   |
+| wheels.bike    | resell    | —         | —             | 76             | 20     | 6      | Go Montenegro Domains, LLC |
+| teams.bike     | available | $14.99    | —             | 62             | 32     | 5      | name.com                   |
+| mountains.bike | resell    | —         | —             | 54             | 14     | 9      | Dynadot Inc                |
+| spaces.bike    | available | $14.99    | —             | 54             | 30     | 6      | name.com                   |
+| cams.bike      | available | $14.99    | —             | 52             | 29     | 4      | name.com                   |
+| systems.bike   | available | $14.99    | —             | 46             | 27     | 7      | name.com                   |
+| drops.bike     | available | $14.99    | —             | 52             | 25     | 5      | name.com                   |
+| chem.bike      | available | $14.99    | —             | 74             | 24     | 4      | name.com                   |
+| schools.bike   | available | $14.99    | —             | 72             | 24     | 7      | name.com                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,852-row public sample | 8,851 live domains                               |
+| 1,000-row public sample | 11,554 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BIKE One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BIKE One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
