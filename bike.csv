@@ -472,6 +472,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2a975299-5167-4b6c-90f1-3891a7d999ef,Iputittoyou.bike,available,48.98,,50,1,15,namecheap,,
 2ac66985-9f0a-47fc-837c-17cb73f35a56,abilities.bike,available,14.99,,74,4,9,name.com,,
 2ac836dc-f30a-4bb0-9553-f51e80d187ff,oceans.bike,available,14.99,,64,22,6,name.com,,
+2ac85f1a-9696-4049-93df-392c1ca41005,intro.bike,premium,,,88,29,5,,,
 2ada8b3a-2501-4229-be08-de5dbade18b3,posterpaint.bike,available,14.99,,74,2,12,name.com,,
 2b19273f-b3af-4d1d-8d7e-e27271b2ea85,manages.bike,available,14.99,,56,3,7,name.com,,
 2b1bd84b-cbcb-4672-b3bb-8e3f340c3b6f,guns.bike,available,14.99,,68,22,4,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 587877be-ef19-4e1b-94cd-804c9a146d73,CountyofKings.bike,available,48.98,,54,2,15,namecheap,,
 58905214-5a01-4c09-9003-599cca8c7857,uponthewhole.bike,available,14.99,,46,1,14,name.com,,
 589fbe6b-b535-4485-8555-40587ac464a7,dowell.bike,available,14.99,,76,12,7,name.com,,
-58b78ccf-c822-4b31-8cc4-8ca43ab25f24,participants.bike,available,14.99,,58,7,12,name.com,,
