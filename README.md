@@ -82,7 +82,7 @@ print(df.head())
 | lets.bike      | resell    | —         | —             | 77             | 39     | 4      | Dynadot Inc      |
 | tickets.bike   | available | $14.99    | —             | 64             | 34     | 7      | name.com         |
 | brands.bike    | resell    | —         | —             | 62             | 28     | 6      | GoDaddy.com, LLC |
-| seats.bike     | premium   | —         | —             | 74             | 12     | 5      | —                |
+| recover.bike   | premium   | —         | —             | 79             | 23     | 7      | —                |
 | spectra.bike   | available | $14.99    | —             | 62             | 34     | 7      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.

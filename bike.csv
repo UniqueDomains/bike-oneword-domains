@@ -165,6 +165,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 100b423b-cb23-43e6-a148-9c1156d786a7,Ihaveasthma.bike,available,48.98,,50,1,13,namecheap,,
 1013ebde-bd47-4200-9d80-ec8ab8f42d1c,letsomeonehaveit.bike,available,14.99,,67,1,19,name.com,,
 102dc382-a6a3-4c53-b763-10aaa1edba02,keepin.bike,available,14.99,,72,6,7,name.com,,
+1031d921-02d1-4bee-a68c-5c4dea46a6c3,recover.bike,premium,,,79,23,7,,,
 10476639-6201-40be-ac06-fee9f332ba29,laptops.bike,available,14.99,,56,8,7,name.com,,
 106d9640-8995-45f7-b232-96eb69c506ad,managed.bike,available,14.99,,58,20,7,name.com,,
 10f891d9-ed10-4c97-8773-19b889ae0fee,overrated.bike,available,14.99,,60,6,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 58735e10-f7ca-4e7e-b206-643afcdc75d4,midbreakfast.bike,available,14.99,,70,1,12,name.com,,
 587664aa-57e1-42d6-a5ed-57b890d9b3fc,thongs.bike,available,14.99,,50,5,6,name.com,,
 587877be-ef19-4e1b-94cd-804c9a146d73,CountyofKings.bike,available,48.98,,54,2,15,namecheap,,
-58905214-5a01-4c09-9003-599cca8c7857,uponthewhole.bike,available,14.99,,46,1,14,name.com,,
