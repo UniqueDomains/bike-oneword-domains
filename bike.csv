@@ -966,6 +966,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 559e7552-2791-4e83-ad41-c555593a60d1,CountyofJefferson.bike,available,14.99,,44,0,19,name.com,,
 55a8d84b-0624-403c-b1c6-03653f93a0cc,paintpot.bike,available,14.99,,72,2,9,name.com,,
 55bd019a-7adc-41fe-81ea-7556f3c6352b,gothroughwith.bike,available,14.99,,58,1,15,name.com,,
+55c8fc6d-a741-4b08-811b-0c5d6093f82b,divers.bike,premium,,,69,11,6,,,
 56024755-f279-4df2-b488-79fc6aa296b2,fruitvinegar.bike,available,14.99,,50,1,13,name.com,,
 561002ec-7031-4b77-9e5e-8058a82876c0,bangles.bike,available,14.99,,56,4,7,name.com,,
 5625c749-557e-454b-993f-d8116f3a9adb,disks.bike,available,14.99,,50,6,5,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 58644537-9084-4fce-a989-fb9fe0b28d58,surveys.bike,available,14.99,,56,15,7,name.com,,
 58735e10-f7ca-4e7e-b206-643afcdc75d4,midbreakfast.bike,available,14.99,,70,1,12,name.com,,
 587664aa-57e1-42d6-a5ed-57b890d9b3fc,thongs.bike,available,14.99,,50,5,6,name.com,,
-587877be-ef19-4e1b-94cd-804c9a146d73,CountyofKings.bike,available,48.98,,54,2,15,namecheap,,
