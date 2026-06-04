@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .bike one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,765 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,765 domains · **Median ask:** $18.81 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,765 domains · **Median ask:** $19.18 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/bike`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| intro.bike     | premium   | —         | —             | 88             | 29     | 5      | —                |
-| barup.bike     | available | $14.99    | —             | 82             | 2      | 6      | name.com         |
-| matcha.bike    | available | $14.99    | —             | 86             | 39     | 6      | name.com         |
-| useit.bike     | available | $14.99    | —             | 94             | 7      | 6      | name.com         |
-| playon.bike    | available | $14.99    | —             | 80             | 14     | 7      | name.com         |
-| toneup.bike    | available | $14.99    | —             | 80             | 5      | 7      | name.com         |
-| hangon.bike    | available | $14.99    | —             | 82             | 6      | 7      | name.com         |
-| makeit.bike    | available | $14.99    | —             | 82             | 21     | 7      | name.com         |
-| messages.bike  | available | $14.99    | —             | 80             | 16     | 8      | name.com         |
-| shortcuts.bike | available | $14.99    | —             | 48             | 41     | 10     | name.com         |
-| cars.bike      | resell    | —         | —             | 66             | 47     | 4      | Dynadot Inc      |
-| bicycles.bike  | premium   | $242      | $242          | 68             | 9      | 8      | namesilo         |
-| skills.bike    | resell    | —         | —             | 58             | 47     | 6      | Cronon GmbH      |
-| carols.bike    | premium   | $46.20    | $46.20        | 56             | 7      | 6      | namecheap        |
-| tokens.bike    | available | $14.99    | —             | 51             | 36     | 6      | name.com         |
-| lets.bike      | resell    | —         | —             | 77             | 39     | 4      | Dynadot Inc      |
-| tickets.bike   | available | $14.99    | —             | 64             | 34     | 7      | name.com         |
-| brands.bike    | resell    | —         | —             | 62             | 28     | 6      | GoDaddy.com, LLC |
-| recover.bike   | premium   | —         | —             | 79             | 23     | 7      | —                |
-| spectra.bike   | available | $14.99    | —             | 62             | 34     | 7      | name.com         |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ink.bike             | premium   | $78.54    | $78.54        | 94             | 51     | 3      | namesilo  |
+| right.bike           | available | $14.99    | $50.99        | 82             | 29     | 5      | name.com  |
+| despite.bike         | available | $14.99    | —             | 90             | 5      | 7      | name.com  |
+| surprising.bike      | available | $14.99    | —             | 88             | 7      | 10     | name.com  |
+| suck.bike            | available | $14.99    | —             | 84             | 15     | 4      | name.com  |
+| los.bike             | premium   | $82.50    | —             | 86             | 19     | 3      | name.com  |
+| lorry.bike           | available | $14.99    | —             | 91             | 8      | 5      | name.com  |
+| device.bike          | available | $14.99    | —             | 80             | 28     | 6      | name.com  |
+| medicine.bike        | available | $14.99    | —             | 94             | 26     | 8      | name.com  |
+| snippet.bike         | available | $14.99    | —             | 92             | 15     | 7      | name.com  |
+| consuming.bike       | available | $14.99    | $50.99        | 82             | 3      | 9      | name.com  |
+| AlbertEinstein.bike  | available | $14.99    | —             | 94             | 7      | 15     | name.com  |
+| perfect.bike         | premium   | $500      | —             | 124            | 39     | 7      | name.com  |
+| progressive.bike     | available | $14.99    | —             | 94             | 29     | 11     | name.com  |
+| things.bike          | available | $14.99    | —             | 80             | 28     | 6      | name.com  |
+| disturb.bike         | available | $14.99    | —             | 82             | 6      | 7      | name.com  |
+| engagement.bike      | available | $14.99    | —             | 81             | 19     | 10     | name.com  |
+| congratulations.bike | available | $14.99    | —             | 88             | 7      | 15     | name.com  |
+| amuse.bike           | available | $14.99    | —             | 82             | 13     | 5      | name.com  |
+| monday.bike          | available | $14.99    | —             | 86             | 33     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BIKE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BIKE One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
