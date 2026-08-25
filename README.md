@@ -1,10 +1,10 @@
-# Available .BIKE One-Word Domains (18,285)
+# Available .BIKE One-Word Domains (18,864)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C285%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C864%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .bike one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **18,285 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,864 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 18,285 domains · **Median ask:** $13.08 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 18,864 domains · **Median ask:** $12.86 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/bike`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| bce.bike     | available | $14.99    | —             | medium         | low    | 3      | name.com         |
-| fly.bike     | resell    | —         | —             | high           | low    | 3      | Porkbun LLC      |
-| aft.bike     | premium   | $38.94    | $38.94        | low            | low    | 3      | namesilo         |
-| Fla.bike     | available | $14.99    | —             | medium         | low    | 3      | name.com         |
-| try.bike     | resell    | —         | —             | high           | low    | 3      | Gandi SAS        |
-| apt.bike     | premium   | $82.50    | —             | high           | low    | 3      | name.com         |
-| ilx.bike     | available | $5.98     | $48.98        | low            | low    | 3      | namecheap        |
-| easy.bike    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
-| awe.bike     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| ixl.bike     | available | $5.98     | $48.98        | low            | low    | 3      | namecheap        |
-| zone.bike    | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.  |
-| cap.bike     | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
-| lxi.bike     | available | $5.98     | $48.98        | low            | low    | 3      | namecheap        |
-| point.bike   | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC |
-| ccc.bike     | premium   | $242      | $242          | low            | medium | 3      | namesilo         |
-| shh.bike     | available | $14.99    | —             | medium         | low    | 3      | name.com         |
-| water.bike   | resell    | —         | —             | high           | medium | 5      | Dynadot Inc      |
-| cut.bike     | premium   | $250      | $250          | high           | low    | 3      | name.com         |
-| ache.bike    | available | $5.98     | $48.98        | low            | low    | 4      | namecheap        |
-| country.bike | resell    | —         | —             | high           | low    | 7      | InterNetX GmbH   |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| hello.bike | available | —         | —             | high           | low    | 5      | —                |
+| bce.bike   | available | $14.99    | —             | medium         | low    | 3      | name.com         |
+| fly.bike   | resell    | —         | —             | high           | low    | 3      | Porkbun LLC      |
+| aft.bike   | premium   | $38.94    | $38.94        | low            | low    | 3      | namesilo         |
+| Fla.bike   | available | $14.99    | —             | medium         | low    | 3      | name.com         |
+| try.bike   | resell    | —         | —             | high           | low    | 3      | Gandi SAS        |
+| apt.bike   | premium   | $82.50    | —             | high           | low    | 3      | name.com         |
+| ilx.bike   | available | $5.98     | $48.98        | low            | low    | 3      | namecheap        |
+| easy.bike  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
+| awe.bike   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| ixl.bike   | available | $5.98     | $48.98        | low            | low    | 3      | namecheap        |
+| zone.bike  | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.  |
+| cap.bike   | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| lxi.bike   | available | $5.98     | $48.98        | low            | low    | 3      | namecheap        |
+| point.bike | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC |
+| ccc.bike   | premium   | $242      | $242          | low            | medium | 3      | namesilo         |
+| shh.bike   | available | $14.99    | —             | medium         | low    | 3      | name.com         |
+| water.bike | resell    | —         | —             | high           | medium | 5      | Dynadot Inc      |
+| cut.bike   | premium   | $250      | $250          | high           | low    | 3      | name.com         |
+| ache.bike  | available | $5.98     | $48.98        | low            | low    | 4      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 18,285 live domains                        |
+| 1,000-row public sample | 18,864 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BIKE One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BIKE One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
