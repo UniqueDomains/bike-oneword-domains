@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 f123c2cf-4754-4645-a76a-36ec3d1124a4,posterior.bike,available,5.98,48.98,medium,low,9,namecheap,,,09/08/2026 11:12
-a5285868-b687-4f71-9618-8c323c28fc30,oberlin.bike,available,5.38,31.25,medium,low,7,spaceship,,,28/09/2026 04:20
+a5285868-b687-4f71-9618-8c323c28fc30,oberlin.bike,available,5.38,31.25,high,low,7,spaceship,,,28/09/2026 04:20
 a7950782-6777-45d3-a0ac-cb26622dccd9,duties.bike,available,5.38,31.25,medium,low,6,spaceship,,,27/09/2026 22:05
 a236ff0d-532b-4817-8b75-137f5fb9a361,trollop.bike,available,12.99,38.99,medium,low,7,namesilo,,,17/09/2026 10:23
 a89848e4-f4b3-485d-b12b-238f3431bac6,dangerous.bike,available,14.99,50.99,medium,low,9,name.com,,,13/08/2026 17:15
@@ -8,24 +8,28 @@ fab5386e-cfee-4499-a150-78761fe2fb3b,decorous.bike,available,5.98,48.98,medium,l
 1971a227-551d-42fc-ba84-d592cf6bdccc,plays.bike,available,5.98,48.98,medium,low,5,namecheap,,,18/09/2026 05:50
 77544a8d-cf64-434c-bc32-8ba1287afbb6,spiteful.bike,available,5.98,48.98,medium,low,8,namecheap,,,14/08/2026 04:20
 1bd64c85-fb7d-4da2-9adf-fae3de8e2e0d,watching.bike,available,14.99,,high,low,8,name.com,,,
+4453d624-2eb5-43c4-9317-b9e43bce328f,lorna.bike,available,30.2,30.2,medium,low,5,cloudflare,,,29/09/2026 15:29
+03882236-a9a0-4871-a166-e981c54ee9c6,squirrels.bike,available,5.98,48.98,medium,low,9,namecheap,,,29/09/2026 23:34
 acbadc6f-f2a5-4745-a6d5-4f7595e37ada,washed.bike,available,5.98,48.98,high,low,6,namecheap,,,13/09/2026 08:31
 7336a9c8-4ea5-42cd-9080-cd30b54d9573,estimates.bike,available,12.99,38.99,medium,low,9,namesilo,,,20/09/2026 04:10
 29056cec-b0c4-4168-a387-78d5ffb6aaea,catalogue.bike,available,12.99,38.99,high,low,9,namesilo,,,24/09/2026 13:08
 67146d3d-eb53-46e4-8975-38449f005a6c,dependence.bike,available,12.99,38.99,medium,low,10,namesilo,,,17/09/2026 06:54
 54f44b9f-15df-47ec-abd5-194f1285e414,essential.bike,available,12.99,38.99,high,low,9,namesilo,,,22/09/2026 00:42
 ab5ebc7f-0516-44cc-92f9-c26d02a0a09f,aardvark.bike,available,12.99,38.99,high,low,8,namesilo,,,16/09/2026 13:21
-0312dae5-51fa-49f3-ad59-d6e16ae46055,carte.bike,available,12.99,38.99,medium,low,5,namesilo,,,23/09/2026 16:04
+a36f2325-a657-4186-b64f-369c9df39e55,scripts.bike,available,12,,medium,low,7,unstoppable,,,29/09/2026 05:41
+0312dae5-51fa-49f3-ad59-d6e16ae46055,carte.bike,available,12.99,38.99,high,low,5,namesilo,,,23/09/2026 16:04
 1d60f6ed-46e3-423c-8889-5747d22c3dcc,philia.bike,available,12.99,38.99,high,low,6,namesilo,,,17/09/2026 14:21
+0474bc7f-4f69-4f88-8187-a6b00a3026b7,circumstance.bike,available,12.99,38.99,high,low,12,namesilo,,,29/09/2026 08:31
 d7f79b35-d849-4f04-93c8-5cf5d22fc9f5,nth.bike,premium,78.54,78.54,medium,low,3,namesilo,,,03/09/2026 12:35
 40643265-138c-4327-a73f-dbc190cab585,justification.bike,available,14.99,,medium,low,13,name.com,,,
 b6b8b453-512d-4581-8286-d7375b7422ed,shenandoah.bike,available,30.2,30.2,medium,low,10,cloudflare,,,27/09/2026 21:14
 ab4e8bd4-b1c2-4acb-bc94-70e997481ace,ergodic.bike,available,5.98,48.98,medium,low,7,namecheap,,,17/08/2026 12:09
 159bafe9-7d34-46d3-8778-36b4a914bc76,talisman.bike,available,12.99,38.99,high,low,8,namesilo,,,19/09/2026 00:12
 85c8ffa9-b077-491d-85f9-6fc4f457f526,daredevil.bike,available,14.99,50.99,high,low,9,name.com,,,13/08/2026 17:43
-e5593734-bda2-4c34-9de3-d6de964451b5,heartthrob.bike,available,14.99,,high,low,10,name.com,,,
+e5593734-bda2-4c34-9de3-d6de964451b5,heartthrob.bike,available,30.2,30.2,high,low,10,cloudflare,,,29/09/2026 22:26
 ca35a30f-0aaf-45e2-a9cc-dc12bdf4d395,ballup.bike,available,5.98,48.98,medium,low,6,namecheap,,,21/09/2026 23:27
 b27ff0ce-1988-40db-beb3-9b21b6d0a09a,chiseled.bike,available,5.98,48.98,medium,low,8,namecheap,,,12/08/2026 06:05
-d2549b1b-ce33-4539-9751-af220884fca0,bigger.bike,available,5.98,48.98,high,low,6,namecheap,,,22/09/2026 20:34
+d2549b1b-ce33-4539-9751-af220884fca0,bigger.bike,available,5.38,31.25,high,low,6,spaceship,,,29/09/2026 20:37
 9bfcb71a-2126-4d6f-a3ad-1a6166999454,bragger.bike,available,5.98,48.98,medium,low,7,namecheap,,,11/08/2026 01:14
 4384e6e4-671d-4541-a653-745d4e268709,wasting.bike,available,12.99,38.99,medium,low,7,namesilo,,,21/09/2026 00:58
 67208a63-8258-4530-9f14-3a3bcd5f4ece,sublimated.bike,available,5.98,48.98,medium,low,10,namecheap,,,11/09/2026 00:06
@@ -34,6 +38,7 @@ c0533972-d47e-402d-823d-3459e755656b,brag.bike,available,12.99,38.99,high,low,4,
 b8804b3a-caf1-4356-8bd5-04a0ef4aad6e,examination.bike,available,8.24,32.21,high,low,11,dynadot,,,27/09/2026 21:26
 3ac795b9-ac73-40c7-b456-996d7c4a7950,roughneck.bike,available,5.98,48.98,medium,low,9,namecheap,,,11/08/2026 08:43
 ab07f342-cd48-4e48-8c21-42c1e35440c5,blocked.bike,available,12.99,38.99,high,low,7,namesilo,,,22/09/2026 22:08
+2ae737d1-112a-4bef-8e2b-6c094f0ee9a1,displacement.bike,available,5.38,31.25,high,low,12,spaceship,,,29/09/2026 21:00
 4951ed10-be0e-4131-a0ba-2a9b4db49022,alalia.bike,available,12.99,38.99,medium,low,6,namesilo,,,18/09/2026 01:40
 794e8616-dd3b-4d73-85fc-e93c9d4d1ebc,oracular.bike,available,5.98,48.98,medium,low,8,namecheap,,,04/09/2026 17:12
 2cfac53f-428a-4a19-a421-ebe69b739003,numeric.bike,available,5.98,48.98,high,low,7,namecheap,,,03/09/2026 22:54
@@ -52,24 +57,26 @@ b8cd51ca-0875-4413-8385-62f8a4694706,keynesian.bike,available,5.98,48.98,medium,
 68a9b319-5dae-41a4-94bf-92b100f5392e,disulfiram.bike,available,12.99,38.99,medium,low,10,namesilo,,,19/09/2026 12:22
 367774d9-a3d9-456b-b7d3-ef5b1bab2805,posh.bike,available,5.98,48.98,high,low,4,namecheap,,,12/08/2026 09:53
 4a9e0046-6f26-46d7-b0e6-dafa369570ab,zombies.bike,available,12.99,38.99,medium,low,7,namesilo,,,18/09/2026 03:58
-9f8a51f6-3c09-480d-a394-378ecf50bfd6,palladian.bike,available,5.98,48.98,medium,low,9,namecheap,,,04/09/2026 23:44
+9f8a51f6-3c09-480d-a394-378ecf50bfd6,palladian.bike,available,5.98,48.98,high,low,9,namecheap,,,04/09/2026 23:44
 badfdffa-10ba-4e4f-8b40-abc2dedcd311,dendritic.bike,available,5.98,48.98,medium,low,9,namecheap,,,14/08/2026 01:48
 0390e484-333a-4a70-a5a6-ee32ecae3633,aqualung.bike,available,12.99,38.99,medium,low,8,namesilo,,,19/09/2026 22:54
+756a72fe-8aa2-440a-b314-9c4c095cb65b,exceeded.bike,available,12.99,38.99,medium,low,8,namesilo,,,30/09/2026 00:20
 d58f0259-6004-486a-9712-f7594c633b52,biface.bike,available,5.98,48.98,medium,low,6,namecheap,,,09/08/2026 19:55
 7fe1f614-d189-4d65-914e-9cbd3b40a21d,vaulting.bike,available,5.98,48.98,high,low,8,namecheap,,,04/09/2026 21:34
 2fb43841-5092-405b-a22f-3dc0e09fecbb,mentoring.bike,available,12.99,38.99,high,low,9,namesilo,,,28/09/2026 22:55
 918de3ac-77f3-4562-a6eb-7b1dcb73982c,bionomics.bike,available,12.99,38.99,medium,low,9,namesilo,,,23/09/2026 18:43
-64c84bb6-87a2-4480-9b3f-cb96274c3067,donation.bike,available,14.99,,high,low,8,name.com,,,
+64c84bb6-87a2-4480-9b3f-cb96274c3067,donation.bike,available,5.38,31.25,high,low,8,spaceship,,,29/09/2026 16:32
 092cba06-290c-41b6-b6ae-b3e22fb433c8,aback.bike,available,5.98,48.98,high,low,5,namecheap,,,13/09/2026 16:07
 3cdf9cc3-018d-411b-8199-a85454fc1504,gothic.bike,available,5.98,48.98,high,low,6,namecheap,,,20/08/2026 17:17
 b2227097-083e-4334-9855-0f220605a571,cultures.bike,available,30.2,30.2,medium,low,8,cloudflare,,,28/09/2026 23:32
-3fce0e1c-df31-435f-9373-8402c8406097,candidly.bike,available,5.98,48.98,medium,low,8,namecheap,,,14/09/2026 05:06
+3fce0e1c-df31-435f-9373-8402c8406097,candidly.bike,available,5.98,48.98,high,low,8,namecheap,,,14/09/2026 05:06
 e6e71776-674f-4ce9-8171-e7bbaa9c5e90,minded.bike,available,5.98,48.98,high,low,6,namecheap,,,24/08/2026 23:35
 a9d63e41-7c4c-487a-aed0-07748bc5c15b,million.bike,available,5.98,48.98,high,low,7,namecheap,,,25/09/2026 20:09
-c1fee8f8-1d6c-4c9f-b38a-34614cd221c1,taupe.bike,available,5.98,48.98,medium,low,5,namecheap,,,18/08/2026 19:04
+c1fee8f8-1d6c-4c9f-b38a-34614cd221c1,taupe.bike,available,5.98,48.98,high,low,5,namecheap,,,18/08/2026 19:04
 caef135e-48aa-4924-9581-e9082b72ddec,execute.bike,available,30.2,30.2,high,low,7,cloudflare,,,27/09/2026 16:26
 53732928-8e33-4a1d-a99d-9c3158df25ef,literate.bike,available,5.98,48.98,high,low,8,namecheap,,,24/08/2026 07:26
 9775b9fd-955d-4cd6-af5a-3bfe5042bbc4,brookings.bike,available,12.99,38.99,medium,low,9,namesilo,,,28/09/2026 16:41
+29da57cb-d632-4a30-932f-f38cad70087c,implies.bike,available,12,,medium,low,7,unstoppable,,,29/09/2026 15:58
 77e7658c-0889-4560-8b41-56da6ac6f7c7,acheron.bike,available,5.98,48.98,medium,low,7,namecheap,,,17/09/2026 00:29
 39a54f47-18ff-4f24-8322-44dc2a18e010,inversion.bike,available,12.99,38.99,high,low,9,namesilo,,,19/09/2026 03:24
 0019bd1a-eae7-4895-b683-f559d7ba4882,bared.bike,available,5.98,48.98,medium,low,5,namecheap,,,22/09/2026 17:24
@@ -88,12 +95,14 @@ b604ceb0-00c7-476f-accd-6286f88e7a27,affirmable.bike,available,5.98,48.98,high,l
 43e80965-fea9-42a0-8186-b524f40407a1,rating.bike,available,5.38,31.25,high,low,6,spaceship,,,28/09/2026 19:08
 479254b6-f283-4f73-8ffd-0385e5e282f5,inbuilt.bike,available,5.98,48.98,high,low,7,namecheap,,,11/08/2026 08:08
 dcce33a9-5a55-40e3-afc3-7d0d0c45b1ad,noisome.bike,available,5.98,48.98,medium,low,7,namecheap,,,18/08/2026 02:29
+4df51d5d-68c1-4f95-b637-86f8af382aab,prestigious.bike,available,12,,high,low,11,unstoppable,,,29/09/2026 08:35
+0a51c063-4deb-4dda-aa09-d97746e5a848,invites.bike,available,5.38,31.25,medium,low,7,spaceship,,,29/09/2026 11:26
 b8caee65-f2e2-4a63-af49-5dde1f5f6a13,either.bike,available,8.24,31.41,medium,low,6,porkbun,,,28/09/2026 14:39
 97d7cc60-0285-4764-8792-eb66e95cb2a1,amora.bike,available,5.98,48.98,high,low,5,namecheap,,,18/09/2026 22:38
 a59ccf65-e04e-4705-8182-7eb14096affa,alter.bike,available,5.98,48.98,high,low,5,namecheap,,,28/09/2026 08:03
-a4bfd240-3a2a-4480-b861-5a68f99c4983,circus.bike,available,14.99,,high,low,6,name.com,,,
+a4bfd240-3a2a-4480-b861-5a68f99c4983,circus.bike,available,12,,high,low,6,unstoppable,,,29/09/2026 09:23
 44260768-8a8a-4842-bf0c-92bc46b4336c,chet.bike,available,5.38,31.25,high,low,4,spaceship,,,29/09/2026 03:38
-4aeb9214-3126-4444-8836-308736d1a82f,leased.bike,available,5.98,48.98,medium,low,6,namecheap,,,12/08/2026 02:50
+4aeb9214-3126-4444-8836-308736d1a82f,leased.bike,available,5.98,48.98,high,low,6,namecheap,,,12/08/2026 02:50
 0b16fa40-04a1-4714-a79e-e597ef12a775,michelson.bike,available,5.98,48.98,medium,low,9,namecheap,,,16/09/2026 12:52
 38aec04a-3cef-42c7-9fa3-c1be3370a51c,performer.bike,available,12,,high,low,9,unstoppable,,,28/09/2026 15:03
 d8b9821a-9f2d-4b9d-b6c0-6e5d672f7817,adored.bike,available,5.98,48.98,high,low,6,namecheap,,,21/09/2026 19:35
@@ -103,7 +112,7 @@ beb63172-9269-49dd-b630-1afe30c07547,applicator.bike,available,5.98,48.98,medium
 8b863a75-decb-42ad-97cb-d31d66cef9c3,premolar.bike,available,5.98,48.98,high,low,8,namecheap,,,09/08/2026 19:46
 00d9dc45-1b37-4500-bfec-1430bb98510c,persistent.bike,available,5.98,48.98,high,low,10,namecheap,,,14/08/2026 14:58
 3bd861dd-1ca1-4606-800f-62041f5dddaf,stewardess.bike,available,12.99,38.99,high,low,10,namesilo,,,17/09/2026 22:26
-119aa163-a88a-451f-b90a-9cd1ce280447,babbitt.bike,available,12.99,38.99,medium,low,7,namesilo,,,21/09/2026 12:17
+119aa163-a88a-451f-b90a-9cd1ce280447,babbitt.bike,available,12.99,38.99,high,low,7,namesilo,,,21/09/2026 12:17
 50b7bc62-6bbb-4eef-91b8-c0ee5e3383c9,atacama.bike,available,14.99,,medium,low,7,name.com,,,
 4c79a690-bcf5-455c-bec9-ba2df91c58f4,walpole.bike,available,9.99,67.99,medium,low,7,godaddy,,,28/09/2026 01:54
 2954fcf8-6e1b-4b5c-983f-041f3d2bcbcb,ritzy.bike,available,5.98,48.98,high,low,5,namecheap,,,09/09/2026 18:04
@@ -113,27 +122,31 @@ d78632d6-f1ac-43f6-965e-d2d2c88021c4,hitting.bike,available,12.99,38.99,high,low
 b05cb51d-b1b9-4515-a9cd-96e7a2bd5c09,ninety.bike,available,5.98,48.98,high,low,6,namecheap,,,
 05f94289-ccc2-41ff-b452-59e7fc93ac1a,zestful.bike,available,5.98,48.98,high,low,7,namecheap,,,08/08/2026 19:51
 872b1e58-c719-4737-8164-9bd7f1312368,savings.bike,available,30.2,30.2,high,low,7,cloudflare,,,28/09/2026 13:08
-4681032b-cf21-4c28-b5f4-8f9d145fc940,vacuum.bike,available,14.99,,high,low,6,name.com,,,
+4681032b-cf21-4c28-b5f4-8f9d145fc940,vacuum.bike,available,8.24,32.21,high,low,6,dynadot,,,29/09/2026 23:00
 3afe04b7-e41d-4fe8-9e6e-e34153b11f63,abydos.bike,available,12.99,38.99,medium,low,6,namesilo,,,16/09/2026 19:41
 da954279-2675-4f2c-81c1-ddf287982886,periods.bike,available,30.2,30.2,medium,low,7,cloudflare,,,28/09/2026 18:01
 944fb544-0ca6-4842-905a-59ac918e07fb,idyll.bike,available,5.98,48.98,high,low,5,namecheap,,,08/09/2026 10:11
 2140713a-d663-4fcc-95bf-d5cb4f3a145d,resisting.bike,available,8.24,32.21,medium,low,9,dynadot,,,28/09/2026 21:16
 e74d9642-85ef-453d-84c0-fcbf68521ab3,placid.bike,available,5.98,48.98,high,low,6,namecheap,,,17/08/2026 14:50
-4bcbeb0a-2dca-4c13-aa2a-8deb4bcc530d,disease.bike,available,14.99,,high,low,7,name.com,,,
+dc0d8d7f-a05c-44fb-84c3-b4be2d4b1ca2,wessex.bike,available,12.99,38.99,medium,low,6,namesilo,,,29/09/2026 08:19
+4bcbeb0a-2dca-4c13-aa2a-8deb4bcc530d,disease.bike,available,12.99,38.99,high,low,7,namesilo,,,29/09/2026 15:40
 cc19516b-8dab-47e9-8ecf-b17dfe851090,albescent.bike,available,5.98,48.98,medium,low,9,namecheap,,,
 6911a7c3-64fd-4715-9184-17819c22ccae,artists.bike,available,5.98,48.98,high,low,7,namecheap,,,28/09/2026 00:02
 181141ac-3f50-4674-b3d0-21ca3e974902,sobeit.bike,available,14.99,50.99,low,low,8,name.com,,,16/09/2026 13:51
 2ef5b0d4-6b6f-4438-b7a2-ef2a4b8ffae1,went.bike,available,14.99,,high,low,4,name.com,,,
+c3b05e1d-b093-44b5-9163-070130aa659e,semen.bike,available,8.24,32.21,medium,low,5,dynadot,,,29/09/2026 18:24
 de3000aa-68db-4ce2-8101-3c4570cc8e3c,barish.bike,available,12.99,38.99,medium,low,6,namesilo,,,22/09/2026 06:05
 3390f9f8-3999-432e-b3bb-461750c707ae,middling.bike,available,5.98,48.98,medium,low,8,namecheap,,,22/08/2026 13:46
 a34a8806-fd86-4747-b7de-b66cfde475b3,burbling.bike,available,5.98,48.98,medium,low,8,namecheap,,,11/08/2026 10:10
+7c600229-350c-42e4-8d1a-c4618c5d930d,batista.bike,available,5.38,31.25,medium,low,7,spaceship,,,29/09/2026 11:07
 e05a39a5-f3f4-463e-8805-37385a5a7225,camus.bike,available,5.98,48.98,high,low,5,namecheap,,,18/09/2026 02:38
-8d300106-cd6b-4d05-9a6f-881e3e43cdb0,may.bike,premium,250,,high,low,3,name.com,,,
+8d300106-cd6b-4d05-9a6f-881e3e43cdb0,may.bike,premium,250,,high,low,3,name.com,,,29/09/2026 11:57
 c5669d3b-ab2b-49d4-a077-f6405c1a1d52,disrepute.bike,available,12.99,38.99,medium,low,9,namesilo,,,24/09/2026 22:34
 4778b12d-2eb8-4456-9b56-a70722a5a2b9,anpu.bike,available,12.99,38.99,medium,low,4,namesilo,,,19/09/2026 11:59
 8d00565c-2916-4d49-9ea7-2c4962f25060,jural.bike,available,5.98,48.98,medium,low,5,namecheap,,,22/08/2026 14:34
 a8a539db-98c6-4ac2-b5b5-ac8d25c1baf3,neuter.bike,available,5.98,48.98,medium,low,6,namecheap,,,03/09/2026 16:30
 4de8833f-7f51-4fc7-b4dc-7079beeb305e,afterlife.bike,available,5.98,48.98,high,low,9,namecheap,,,15/09/2026 00:23
+70e7a14d-2318-40d4-8e06-854473a9078d,patio.bike,available,12.99,38.99,high,low,5,namesilo,,,29/09/2026 13:40
 64246815-006a-4e41-87f3-7e72da060316,aegean.bike,available,5.98,48.98,high,low,6,namecheap,,,
 b648ce83-ecdc-4fc9-a487-3c613e6f900f,unsworn.bike,available,5.98,48.98,medium,low,7,namecheap,,,12/09/2026 20:53
 d539aa46-57f8-4918-8c2a-fdf7659a09ed,lxxiv.bike,available,5.98,48.98,medium,low,5,namecheap,,,
@@ -146,7 +159,7 @@ bc007573-7e0a-4591-9a76-bdfb5c0d9869,jared.bike,available,5.98,48.98,high,low,5,
 f7667420-0023-47c3-a37a-024ca1d6f9f5,tricolour.bike,available,5.98,48.98,high,low,9,namecheap,,,11/09/2026 19:27
 9fa681d0-fe2c-49ea-b0e2-39df7fb184fe,tenacious.bike,available,12.99,38.99,high,low,9,namesilo,,,19/09/2026 16:19
 46b09b11-0e80-444f-a7c6-d0fd6575e499,foods.bike,available,12,,medium,low,5,unstoppable,,,28/09/2026 22:58
-b110468a-42ae-46d0-8d50-1f5430d7b5f9,potbelly.bike,available,12.99,38.99,medium,low,8,namesilo,,,22/09/2026 17:43
+b110468a-42ae-46d0-8d50-1f5430d7b5f9,potbelly.bike,available,12.99,38.99,high,low,8,namesilo,,,22/09/2026 17:43
 105e497c-e1f1-419c-a466-2efa2c59ca2e,cathedra.bike,available,12.99,38.99,medium,low,8,namesilo,,,23/09/2026 21:50
 292ea16e-0da0-4191-8768-d4530476163e,vodka.bike,available,14.99,,high,low,5,name.com,,,
 1cd0417f-7da7-415a-88d2-32815407b1be,sweetsop.bike,available,12.99,38.99,medium,low,8,namesilo,,,19/09/2026 10:27
@@ -161,7 +174,7 @@ b40406e4-3e7c-4bcb-93f9-61d8b7736135,aerolite.bike,available,12.99,38.99,medium,
 152bc3c6-fdcf-475b-99da-29611bac5ca8,spectacle.bike,available,5.38,31.25,high,low,9,spaceship,,,28/09/2026 20:32
 83180481-9570-4c13-b3f5-939fee7b813e,eliot.bike,available,12.99,38.99,high,low,5,namesilo,,,25/09/2026 05:27
 7375137e-96c9-495e-91d2-fb6d5edc4e87,interfaith.bike,available,5.98,48.98,high,low,10,namecheap,,,22/08/2026 08:02
-45b46812-9f09-46f1-ba1a-573fb14453c1,diligence.bike,available,14.99,,high,low,9,name.com,,,
+45b46812-9f09-46f1-ba1a-573fb14453c1,diligence.bike,available,12.99,38.99,high,low,9,namesilo,,,29/09/2026 14:59
 9e3265ee-68a5-4525-b9fd-27944ccedca7,amendment.bike,available,5.98,48.98,high,low,9,namecheap,,,18/09/2026 18:38
 44cd1743-14e6-4ee0-96d3-50511b9f3419,panadol.bike,available,5.98,48.98,high,low,7,namecheap,,,16/09/2026 23:53
 6ae75263-4c6b-4e59-a819-4abbbf96387d,macleish.bike,available,5.98,48.98,medium,low,8,namecheap,,,20/09/2026 02:03
@@ -179,26 +192,29 @@ ce137827-0d4d-4c81-bb65-ec96e018a75f,australasia.bike,available,30.2,30.2,medium
 a3076962-4b5e-4980-bc2f-ffef2e2fe063,disability.bike,available,12.99,38.99,high,low,10,namesilo,,,24/09/2026 22:26
 ca32e411-719a-4c1f-9cef-61525cfec0a8,stertorous.bike,available,5.98,48.98,low,low,10,namecheap,,,10/09/2026 20:21
 4718d200-632c-49ad-b6da-34e9c0d8402f,apophatic.bike,available,5.98,48.98,medium,low,9,namecheap,,,06/08/2026 02:27
-d5a0df4f-7a47-4b97-971f-3a228b2fd875,leaf.bike,available,14.99,,high,low,4,name.com,,,
+d5a0df4f-7a47-4b97-971f-3a228b2fd875,leaf.bike,available,5.38,31.25,high,low,4,spaceship,,,29/09/2026 19:38
 932a000f-89b1-478d-9f49-a8c61986179c,vibration.bike,available,12.99,38.99,high,low,9,namesilo,,,19/09/2026 17:28
 0643653f-41e5-448d-beee-691eda77231a,empyrean.bike,available,5.98,48.98,medium,low,8,namecheap,,,16/08/2026 20:51
 dfd0351c-a891-4c42-8815-6a934125c0b3,rumors.bike,available,12.99,38.99,medium,low,6,namesilo,,,27/09/2026 09:37
 10d80d46-0fc7-4409-8c83-34a57d535884,costumes.bike,available,12.99,38.99,medium,low,8,namesilo,,,28/09/2026 05:07
+a93da548-614f-41e3-88d7-3958bcd41b7b,corp.bike,available,12,,high,low,4,unstoppable,,,29/09/2026 18:27
 a5725c30-99cb-45ce-a1fa-fff728932fb9,selections.bike,available,5.98,48.98,medium,low,10,namecheap,,,20/09/2026 10:53
 ff26c245-ee14-4399-a5cd-2a8d0e8f5e22,unseeded.bike,available,5.98,48.98,medium,low,8,namecheap,,,12/09/2026 19:10
 b4492525-bcca-4eb3-9656-d633a96e5fab,tartaric.bike,available,5.98,48.98,medium,low,8,namecheap,,,11/09/2026 08:48
+c647eb88-16d4-450e-9151-2c570b98f4be,carrollton.bike,available,12,,high,low,10,unstoppable,,,29/09/2026 22:42
 99e3e91d-a59f-4f14-a21c-7f373c3ece9e,electronic.bike,premium,242,242,high,low,10,namesilo,,,19/09/2026 14:31
 d99a59a2-14ec-476f-a834-7e43511cbde8,bellis.bike,available,12.99,38.99,high,low,6,namesilo,,,23/09/2026 06:15
 f3598b50-c4bf-4452-a69b-0762dc16b5b8,inappropriate.bike,available,5.38,31.25,medium,low,13,spaceship,,,27/09/2026 16:59
 a0641627-c892-4bdb-b3a6-6085ec1a4a36,ayah.bike,available,12.99,38.99,high,low,4,namesilo,,,21/09/2026 10:32
-33c158d5-101d-4321-8fb6-b5d970ff2abb,disbelief.bike,available,12.99,38.99,medium,low,9,namesilo,,,24/09/2026 22:29
+33c158d5-101d-4321-8fb6-b5d970ff2abb,disbelief.bike,available,12.99,38.99,high,low,9,namesilo,,,24/09/2026 22:29
 bf7b631e-b353-4e95-bc35-e88849869f45,apprehend.bike,available,12.99,38.99,high,low,9,namesilo,,,20/09/2026 09:02
 7636b23e-7e3f-47a5-ac40-a01ebffb9fe3,invertible.bike,available,5.98,48.98,medium,low,10,namecheap,,,22/08/2026 09:00
+21b81e94-36c4-496e-b9be-a81c62eda88a,hoff.bike,available,12,,medium,low,4,unstoppable,,,29/09/2026 21:37
 9d1d1d5e-6d0f-4be4-9bf3-bed3e0b32a8c,stochastic.bike,available,5.98,48.98,medium,low,10,namecheap,,,10/09/2026 20:50
 b5934e18-38a2-45da-b9f4-d7560882b67b,orchestrated.bike,available,12.99,38.99,high,low,12,namesilo,,,16/09/2026 23:12
 86a362fe-3752-492b-8ce4-cd221c151c4e,shrewdly.bike,available,5.98,48.98,medium,low,8,namecheap,,,13/09/2026 22:22
 95ed6005-c9c1-4a2f-b3fc-fc4da40fabcf,louie.bike,available,5.38,31.25,high,low,5,spaceship,,,28/09/2026 11:43
-021f882a-8bf8-48b8-a506-a6b633f10c9a,ganja.bike,available,14.99,,high,low,5,name.com,,,
+021f882a-8bf8-48b8-a506-a6b633f10c9a,ganja.bike,available,12.99,38.99,high,low,5,namesilo,,,29/09/2026 06:40
 1f0759d0-e241-4a6c-9f30-a1c8e0c05e0f,diocese.bike,available,12.99,38.99,high,low,7,namesilo,,,23/09/2026 21:58
 fd0f65b8-010c-4eda-8217-6413fb1fbf77,programming.bike,available,5.98,48.98,high,low,11,namecheap,,,28/09/2026 12:38
 8c3801d5-a9a8-4dff-9180-4a52ad0ac58f,gaslit.bike,available,12.99,38.99,medium,low,6,namesilo,,,17/09/2026 16:25
@@ -206,7 +222,7 @@ fd0f65b8-010c-4eda-8217-6413fb1fbf77,programming.bike,available,5.98,48.98,high,
 4d6cfeff-5d64-448c-8a5a-372cc73bf853,bellyache.bike,available,12.99,38.99,medium,low,9,namesilo,,,23/09/2026 00:26
 676d6a04-d338-490c-b705-57934c2c946e,geared.bike,available,5.98,48.98,high,low,6,namecheap,,,18/08/2026 20:59
 a46477c8-f993-4190-9f97-f9526b2ae997,gates.bike,available,5.38,31.25,high,low,5,spaceship,,,29/09/2026 02:38
-943a573a-4f45-4440-a974-2da06054a27b,willie.bike,available,12.99,38.99,medium,low,6,namesilo,,,25/09/2026 11:47
+943a573a-4f45-4440-a974-2da06054a27b,willie.bike,available,12.99,38.99,high,low,6,namesilo,,,25/09/2026 11:47
 8fe3133b-c147-49d7-b908-8e6ba108451f,too.bike,premium,68.51,68.51,high,low,3,spaceship,,,28/09/2026 12:00
 1d47834f-3a1b-4d16-a2a8-2b5dd837b34f,welds.bike,available,5.98,48.98,medium,low,5,namecheap,,,20/09/2026 14:08
 10df2bbe-2087-4ba4-8ad9-d97ef70b5e8e,theory.bike,available,12.99,38.99,high,low,6,namesilo,,,28/09/2026 12:34
@@ -218,38 +234,40 @@ eb41da04-7e06-4f85-bce4-c3e567a00b22,prints.bike,available,12.99,38.99,high,low,
 65fb73ae-c69e-42dc-b9fd-f7f398ef4710,shannon.bike,premium,46.99,41.25,high,low,7,name.com,,,25/09/2026 04:16
 c688104b-e233-4cf7-a83d-8aa3e690263b,numbat.bike,available,5.98,48.98,medium,low,6,namecheap,,,22/09/2026 01:07
 e0745542-4b39-49e7-aa74-8815d48bf48d,idiocy.bike,available,5.98,48.98,medium,low,6,namecheap,,,18/09/2026 18:58
+f9b6a18e-b19b-4281-943e-562614b55336,csr.bike,available,5.38,31.25,high,low,3,spaceship,,,29/09/2026 23:54
 11767326-9053-4baf-adec-f306555a6a5e,tod.bike,available,5.98,48.98,high,low,3,namecheap,,,11/09/2026 16:39
-e1c29228-c29c-45b6-bfe6-edf922e441a3,jerusalem.bike,available,8.24,31.41,medium,low,9,porkbun,,,28/09/2026 09:14
+e1c29228-c29c-45b6-bfe6-edf922e441a3,jerusalem.bike,available,8.24,31.41,high,low,9,porkbun,,,28/09/2026 09:14
 d53b8b74-c05a-421e-916f-47bc1652091d,pleasantly.bike,available,5.98,48.98,high,low,10,namecheap,,,13/09/2026 18:20
 bc36577f-3f53-48e3-9c97-4adcd94338b8,asked.bike,available,14.99,,high,low,5,name.com,,,
 3cdc7f6b-1ca3-4d76-8cbb-a9e84e36e825,watered.bike,available,5.98,48.98,medium,low,7,namecheap,,,25/08/2026 03:28
 133007cd-f1fd-4661-8830-aa717f4e298b,nance.bike,available,5.98,48.98,medium,low,5,namecheap,,,09/09/2026 08:05
-9e78304a-369c-4bea-a1e4-f5f989589496,itchy.bike,available,5.98,48.98,medium,low,5,namecheap,,,05/08/2026 20:43
-0dabf805-c388-42ec-8a1d-0d6e9b51ac4d,dinosaur.bike,available,14.99,,high,low,8,name.com,,,
+aabe8975-1919-4f20-a7f3-50a7b484bead,emmy.bike,available,12.99,38.99,high,low,4,namesilo,,,29/09/2026 06:46
+9e78304a-369c-4bea-a1e4-f5f989589496,itchy.bike,available,5.98,48.98,high,low,5,namecheap,,,05/08/2026 20:43
+0dabf805-c388-42ec-8a1d-0d6e9b51ac4d,dinosaur.bike,available,12.99,38.99,high,low,8,namesilo,,,29/09/2026 15:02
 ded5ece4-a7ba-404e-9f55-4ebb384026bf,ceremonial.bike,available,12.99,38.99,high,low,10,namesilo,,,19/09/2026 15:03
-6cc8c66c-7753-4af3-a943-0d57b0a1e927,glowingly.bike,available,5.98,48.98,medium,low,9,namecheap,,,14/09/2026 21:48
+6cc8c66c-7753-4af3-a943-0d57b0a1e927,glowingly.bike,available,5.98,48.98,high,low,9,namecheap,,,14/09/2026 21:48
 c48c7758-cc4a-4068-bcd9-c6964561ebb3,slippy.bike,available,5.98,48.98,medium,low,6,namecheap,,,10/09/2026 11:03
 3c762ec4-c54d-40b4-8637-05f0ea109c60,knocking.bike,available,14.99,50.99,high,low,8,name.com,,,25/09/2026 08:51
 68cb862b-6061-4b4a-9e75-43f2e31c1883,irritable.bike,available,12.99,38.99,medium,low,9,namesilo,,,25/09/2026 11:30
 f5bf4591-f46e-46c4-8adb-44b22549efd7,conical.bike,available,5.98,48.98,high,low,7,namecheap,,,12/08/2026 20:41
 8d03df4a-4254-4471-853e-36604ff49457,sacrifices.bike,available,8.24,31.41,low,low,10,porkbun,,,28/09/2026 17:47
 015f2b89-8304-4800-a558-4d85c74b383c,abortus.bike,available,12.99,38.99,medium,low,7,namesilo,,,16/09/2026 16:40
-4b2d185b-182b-4566-b9f7-876975370735,multitude.bike,available,14.99,,high,low,9,name.com,,,
-5e3b9675-312c-4d1e-a646-538d04c8c502,karachi.bike,premium,242,242,medium,low,7,namesilo,,,28/09/2026 02:13
+4b2d185b-182b-4566-b9f7-876975370735,multitude.bike,available,30.2,30.2,high,low,9,cloudflare,,,29/09/2026 10:33
+5e3b9675-312c-4d1e-a646-538d04c8c502,karachi.bike,premium,242,242,high,low,7,namesilo,,,28/09/2026 02:13
 fb6a370f-848e-47cc-bcb6-db44f83aa0bb,retained.bike,available,5.38,31.25,high,low,8,spaceship,,,27/09/2026 13:05
-fd2f64db-f4b4-41c4-b99c-5cf2f3554354,fading.bike,available,12.99,38.99,medium,low,6,namesilo,,,21/09/2026 01:33
+fd2f64db-f4b4-41c4-b99c-5cf2f3554354,fading.bike,available,12.99,38.99,high,low,6,namesilo,,,21/09/2026 01:33
 9c91b3db-9708-4b9c-8d69-ea733a47a8bf,obstetric.bike,available,5.98,48.98,medium,low,9,namecheap,,,04/09/2026 00:03
 a93209f4-0942-438d-b82e-e9fc381a60ca,pantie.bike,available,5.98,48.98,medium,low,6,namecheap,,,09/09/2026 22:40
 0ac382ee-a2b0-4838-8b13-063a8a3590aa,pals.bike,available,12.99,38.99,high,low,4,namesilo,,,20/09/2026 10:42
 7db465b3-5141-4757-87c7-98660e055f67,colleges.bike,available,30.2,30.2,medium,low,8,cloudflare,,,29/09/2026 05:34
 8af29405-7264-4dc0-8036-be3e94770816,abaca.bike,available,12.99,38.99,medium,low,5,namesilo,,,16/09/2026 13:44
-7323dc3d-f007-4068-bb3a-71f404b4b66a,limp.bike,available,5.98,48.98,medium,low,4,namecheap,,,23/08/2026 12:39
+7323dc3d-f007-4068-bb3a-71f404b4b66a,limp.bike,available,5.98,48.98,high,low,4,namecheap,,,23/08/2026 12:39
 6fce5628-9ec7-40ae-a2ce-a2e5d8b78427,regrets.bike,available,12,,medium,low,7,unstoppable,,,28/09/2026 15:15
 a05c9bc6-6a4d-4a74-aaf6-64707227ca79,reconciled.bike,available,5.98,48.98,high,low,10,namecheap,,,09/09/2026 11:49
 1d6a6737-9aa8-4981-bfce-d1f1384789c8,willingness.bike,available,14.99,,high,low,11,name.com,,,
 c9270167-904f-458d-b3e2-3f7393383876,luckily.bike,available,5.98,48.98,high,low,7,namecheap,,,13/09/2026 21:22
 d3d7f21c-4f40-469e-bf4f-829c2c2aeca5,topical.bike,available,5.98,48.98,high,low,7,namecheap,,,11/09/2026 17:42
-ace6edbe-fa8b-4fc3-b9a2-95dea332f4c1,geocentric.bike,available,5.98,48.98,medium,low,10,namecheap,,,18/08/2026 22:16
+ace6edbe-fa8b-4fc3-b9a2-95dea332f4c1,geocentric.bike,available,5.98,48.98,high,low,10,namecheap,,,18/08/2026 22:16
 bdefd4be-1efb-4a83-9c14-14ee98b4e6c7,alfalfa.bike,available,12.99,38.99,high,low,7,namesilo,,,18/09/2026 06:07
 a5d08602-c8db-4f23-9eef-8a174afcc7b2,truce.bike,available,5.98,48.98,high,low,5,namecheap,,,20/09/2026 07:17
 e1189f52-d024-492c-9c20-51475ae2a599,yoruba.bike,available,12.99,38.99,high,low,6,namesilo,,,18/09/2026 00:15
@@ -265,13 +283,14 @@ ec862f19-8bcb-46fe-b2da-dfb271e142e9,happier.bike,available,12.99,38.99,high,low
 9f9ded9f-397a-42cd-9893-817cca5fde86,bowman.bike,available,12.99,38.99,medium,low,6,namesilo,,,20/09/2026 01:56
 0be5adb3-8694-4ce1-ad4a-c9d2af627668,afrikaner.bike,available,5.98,48.98,medium,low,9,namecheap,,,
 63bc6aeb-5b8c-4f05-82b7-6620e0fea483,serial.bike,available,5.98,48.98,high,low,6,namecheap,,,21/08/2026 23:54
-56affb18-31b9-4af3-9b9d-01c40bb97e07,fingered.bike,available,5.98,48.98,medium,low,8,namecheap,,,18/08/2026 04:53
+56affb18-31b9-4af3-9b9d-01c40bb97e07,fingered.bike,available,5.98,48.98,high,low,8,namecheap,,,18/08/2026 04:53
 af794ce0-271a-4646-9eb2-9d5667cfcfe9,beholder.bike,available,5.98,48.98,high,low,8,namecheap,,,08/09/2026 16:20
 f12947dd-6847-4bee-b1bb-525a8b22ee8b,venerable.bike,available,5.98,48.98,high,low,9,namecheap,,,27/09/2026 14:05
 993a3dc2-7d33-448b-b7d0-7985a37ab0d7,fulfill.bike,available,12.99,38.99,high,low,7,namesilo,,,28/09/2026 15:34
-38cea9ea-d0a4-4103-92e6-eafc7b009e29,highschool.bike,available,14.99,,high,low,10,name.com,,,
+38cea9ea-d0a4-4103-92e6-eafc7b009e29,highschool.bike,available,30.2,30.2,high,low,10,cloudflare,,,29/09/2026 22:46
 13406ae9-5bc4-4871-8c4f-e0d04e6be16d,spoilt.bike,available,5.98,48.98,medium,low,6,namecheap,,,10/08/2026 14:19
 85b24517-5a37-4f3d-8d09-2b5fe4b76581,handless.bike,available,5.98,48.98,medium,low,8,namecheap,,,11/08/2026 10:12
+4308462f-c210-4f92-9db3-7d58dd7a4ead,hotter.bike,available,12,,high,low,6,unstoppable,,,29/09/2026 08:52
 c30953d4-7c87-4bc7-92a6-e31b8e523099,remarkably.bike,available,5.98,48.98,medium,low,10,namecheap,,,15/09/2026 23:06
 afede2b2-9059-4bfe-b4dd-48b460704176,readers.bike,available,12,,medium,low,7,unstoppable,,,28/09/2026 17:52
 3fb13e5b-9175-4bbb-ae89-204b6effa893,iniquity.bike,available,5.98,48.98,medium,low,8,namecheap,,,17/08/2026 15:08
@@ -279,7 +298,7 @@ e7af2d15-e523-4348-bb95-77a657823b07,markoff.bike,available,12.99,38.99,medium,l
 968db010-f887-4fbe-949a-40ef4eb790fe,bleacher.bike,available,12.99,38.99,medium,low,8,namesilo,,,24/09/2026 05:15
 004bb4de-d951-4915-bb1d-35f6d5532016,alcoholic.bike,available,5.98,48.98,high,low,9,namecheap,,,
 d4456c21-b7b0-4e29-b9ed-f49ac2127997,soleless.bike,available,5.98,48.98,low,low,8,namecheap,,,10/09/2026 13:37
-4b821f15-e36d-49dc-99f3-862e0927fad9,seventies.bike,available,12.99,38.99,medium,low,9,namesilo,,,16/09/2026 12:13
+4b821f15-e36d-49dc-99f3-862e0927fad9,seventies.bike,available,12.99,38.99,high,low,9,namesilo,,,16/09/2026 12:13
 3e3f29bb-88c0-4813-a5e0-74c465fd01d9,downside.bike,available,12.99,38.99,medium,low,8,namesilo,,,24/09/2026 23:40
 61d4f3e7-24db-44b8-9e06-a6449a124ed1,quiesce.bike,available,5.98,48.98,medium,low,7,namecheap,,,09/09/2026 08:52
 ba97b1ea-2941-49d0-a70c-28dec5a297f9,central.bike,resell,,,high,low,7,"Sav.com, LLC - 30",07/05/2026 15:16,07/05/2027 15:16,26/09/2026 04:50
@@ -288,13 +307,16 @@ ba97b1ea-2941-49d0-a70c-28dec5a297f9,central.bike,resell,,,high,low,7,"Sav.com, 
 327e5ca3-cffa-4c85-9dfc-295a42a99729,damages.bike,available,12.99,38.99,high,low,7,namesilo,,,18/09/2026 18:40
 954bb71c-ed00-4a2b-bbf4-d3441210ac82,short.bike,available,12.99,38.99,high,medium,5,namesilo,,,24/09/2026 04:44
 0e8acc3f-0870-4336-812c-76b17284662c,search.bike,resell,,,high,medium,6,"Sav.com, LLC - 23",18/07/2026 15:15,18/07/2027 15:15,26/09/2026 08:52
+1c743267-e9a7-4b0e-9dd3-5801d8d649e7,fuentes.bike,available,8.24,32.21,high,low,7,dynadot,,,29/09/2026 11:52
+b9b8bcea-f669-4798-bcdb-c8c76564d4b0,rivalry.bike,available,5.98,48.98,high,low,7,namecheap,,,29/09/2026 20:12
 b9aa5e8c-ab90-48e0-a49b-2ac8ca000a00,lazily.bike,available,5.98,48.98,medium,low,6,namecheap,,,15/09/2026 01:40
 bf73a676-29b8-4b1c-9d43-f45e5cf37985,anomie.bike,available,12.99,38.99,medium,low,6,namesilo,,,19/09/2026 11:29
 2144dfc0-1599-4c04-86ea-02a0886823b0,mansion.bike,available,5.38,31.25,high,low,7,spaceship,,,28/09/2026 06:20
-5234c714-08ac-4251-8c98-a70db64f6331,chanukkah.bike,available,14.99,,medium,low,9,name.com,,,
+52dfd4ca-7e4a-48e1-bba9-85839ba00a81,napoli.bike,available,12.99,38.99,medium,low,6,namesilo,,,29/09/2026 07:39
+5234c714-08ac-4251-8c98-a70db64f6331,chanukkah.bike,available,12,,medium,low,9,unstoppable,,,29/09/2026 08:11
 daeb3dd7-d732-40ef-8e1f-3ccfdf083777,subocean.bike,available,5.98,48.98,low,low,8,namecheap,,,11/09/2026 00:32
 9f9f825f-b086-41a9-9037-c93929256203,gateway.bike,available,12.99,38.99,high,medium,7,namesilo,,,28/09/2026 14:15
-51e38985-c9bf-436b-8c7e-090696aa9538,encouragement.bike,available,5.38,31.25,medium,low,13,spaceship,,,28/09/2026 22:35
+51e38985-c9bf-436b-8c7e-090696aa9538,encouragement.bike,available,5.38,31.25,high,low,13,spaceship,,,28/09/2026 22:35
 885d20b9-ef57-4213-a088-9cce7837ced4,newbie.bike,available,5.98,48.98,high,low,6,namecheap,,,24/09/2026 19:51
 16d4311b-a23e-4b20-954d-d7785f96008d,headquarters.bike,available,12.99,38.99,high,low,12,namesilo,,,27/09/2026 02:02
 8c930d4d-b12a-49ea-b1a6-47a20996b51a,sailors.bike,available,12.99,38.99,medium,low,7,namesilo,,,28/09/2026 13:06
@@ -314,7 +336,7 @@ e23b0b98-4380-4adc-b293-82dcae405ef4,huntingdon.bike,available,5.38,31.25,medium
 96234551-c6a7-4a6d-84ad-0c677b716f81,mauldin.bike,available,12.99,38.99,medium,low,7,namesilo,,,23/09/2026 16:01
 07bf9c94-7998-4405-923d-986622d7ecf2,numerable.bike,available,5.98,48.98,medium,low,9,namecheap,,,13/08/2026 03:32
 bd2ca605-9cef-41f6-b302-bec9c79bcb7e,cowpea.bike,available,12.99,38.99,medium,low,6,namesilo,,,23/09/2026 23:43
-0c83167c-72ac-4d81-acf1-276b7a909411,contents.bike,available,14.99,,high,low,8,name.com,,,
+0c83167c-72ac-4d81-acf1-276b7a909411,contents.bike,available,12.99,38.99,high,low,8,namesilo,,,29/09/2026 11:23
 6fbef458-1f49-4743-91d8-9b45ab90b974,wanness.bike,available,12.99,38.99,medium,low,7,namesilo,,,17/09/2026 01:08
 54e9e8ca-94ea-4c5a-b954-083ae83b6f8b,slippered.bike,available,5.98,48.98,medium,low,9,namecheap,,,10/09/2026 10:59
 b3543139-73f3-40ca-b660-ece0a4ae5ef6,extremity.bike,available,5.98,48.98,medium,low,9,namecheap,,,19/09/2026 20:32
@@ -323,10 +345,12 @@ f5f5fc50-25c0-4007-ac45-0ab626285111,evelyn.bike,premium,85.8,85.8,high,low,6,na
 b134adf1-d551-4a3e-ba38-c9bbdec8741a,dahna.bike,available,12.99,38.99,medium,low,5,namesilo,,,19/09/2026 23:21
 cbcf6030-3d4a-43d8-9734-401b8f0faea3,tax.bike,premium,242,242,high,medium,3,namesilo,,,28/09/2026 05:46
 234c9e7d-6f1a-42bd-a7d6-06e5752664ae,babies.bike,premium,242,242,high,low,6,namesilo,,,
+3d7d0152-ef06-45e1-9487-3057c6be22e5,snails.bike,available,12.99,38.99,medium,low,6,namesilo,,,29/09/2026 06:02
 2bffb751-5db0-422e-83ea-e37aa1d1e4ce,paraffin.bike,available,12.99,38.99,high,low,8,namesilo,,,18/09/2026 08:24
 c0a1fd34-5613-46c2-9935-a54c06793d76,bechamel.bike,available,12.99,38.99,medium,low,8,namesilo,,,22/09/2026 22:33
 7d1cf742-926a-4132-b0f5-09b9175b6dbe,flatness.bike,available,5.98,48.98,medium,low,8,namecheap,,,24/08/2026 17:17
 cc51479a-7a2d-4f80-ac97-19486ed662ed,ictic.bike,available,5.98,48.98,low,low,5,namecheap,,,21/08/2026 17:53
+766466d7-a757-42b2-a0aa-6a462d20c8da,transmissions.bike,available,30.2,30.2,medium,low,13,cloudflare,,,29/09/2026 17:50
 feb41a7c-3ae8-4be7-b847-b01cc25c3474,monegasque.bike,available,5.98,48.98,medium,low,10,namecheap,,,25/08/2026 04:03
 8a1d7d19-65ff-49de-9e55-ba5eedae8f9b,pens.bike,available,12.99,38.99,medium,low,4,namesilo,,,20/09/2026 04:15
 5abdcfb3-862b-4be5-90bf-dcc8c2ca4b25,mutual.bike,available,12.99,38.99,high,low,6,namesilo,,,25/09/2026 22:40
@@ -339,13 +363,15 @@ db2eec11-fb85-43fe-b1f9-6c0396c84a77,politely.bike,available,12,,medium,low,8,un
 b4040dad-ff33-4854-bb12-a9f72b981bfa,araguaia.bike,available,12.99,38.99,medium,low,8,namesilo,,,19/09/2026 23:45
 474f9b8a-3379-4e34-a184-1256ceb0a561,jew.bike,premium,78.54,78.54,high,low,3,namesilo,,,25/09/2026 23:17
 3b1cb1ae-63e5-4e41-a372-1ddb020651af,focusing.bike,available,12.99,38.99,high,low,8,namesilo,,,24/09/2026 13:33
+7a576016-7161-4863-bacb-5dc4034777b4,selfdefense.bike,available,5.38,31.25,high,low,12,spaceship,,,29/09/2026 10:35
 4082723a-b7db-4efa-a747-74e56acf8b5a,antagonism.bike,available,5.98,48.98,medium,low,10,namecheap,,,19/09/2026 12:27
 3eb05ca2-d789-4764-a115-ad3733a5c444,brambly.bike,available,5.98,48.98,medium,low,7,namecheap,,,11/08/2026 01:59
-ba96b2d7-5f31-4aa5-b5b4-68f62ce32ecd,slashing.bike,available,5.98,48.98,medium,low,8,namecheap,,,10/09/2026 10:08
+ba96b2d7-5f31-4aa5-b5b4-68f62ce32ecd,slashing.bike,available,5.98,48.98,high,low,8,namecheap,,,10/09/2026 10:08
 2db7092a-3be4-45b0-abce-a8a3298320ef,bacca.bike,available,12.99,38.99,high,low,5,namesilo,,,21/09/2026 13:55
 463ce534-d857-4b97-af23-c9250652008e,asbestosis.bike,available,12.99,38.99,medium,low,10,namesilo,,,20/09/2026 12:56
 b53d7ac2-5c0e-4dd7-85c2-7a47e6f373ca,homespun.bike,available,5.98,48.98,high,low,8,namecheap,,,13/08/2026 04:23
 9f3e64aa-596d-43e9-9306-12c1818f703b,proustian.bike,available,5.98,48.98,medium,low,9,namecheap,,,09/09/2026 04:22
+ea2d6819-236a-4d2d-a862-d6de141b4705,pathological.bike,available,8.24,31.41,medium,low,12,porkbun,,,29/09/2026 21:08
 f8e29321-5805-482e-8b9e-e685a469c8a0,arcadic.bike,available,12.99,38.99,medium,low,7,namesilo,,,20/09/2026 01:36
 382cacae-0780-45e6-a8cf-fe0af77e7e54,architect.bike,available,12.99,38.99,high,low,9,namesilo,,,20/09/2026 02:11
 d4caba83-cbe6-4b37-8870-3ea8157437f2,glanced.bike,available,14.99,50.99,medium,low,7,name.com,,,18/09/2026 01:59
@@ -354,11 +380,13 @@ ae3bcca2-3101-45c8-b908-f360261fc833,uniate.bike,available,5.98,48.98,medium,low
 598e79d7-ea77-402e-8b30-130bb6040d41,mawr.bike,available,5.38,31.25,medium,low,4,spaceship,,,28/09/2026 21:42
 3d4e0ccb-435f-4062-b0ea-088508ff99b9,shaun.bike,available,30.2,30.2,medium,low,5,cloudflare,,,29/09/2026 03:45
 f050831d-aef5-42aa-9bd2-b6e21597c4f7,kali.bike,available,12.99,38.99,high,low,4,namesilo,,,22/09/2026 05:54
+a9d12a7b-06cd-405d-8a4b-110ecf997f20,poorer.bike,available,12,,low,low,6,unstoppable,,,29/09/2026 23:56
 c31f2a11-9530-4b8a-8c46-875992d86b92,iambic.bike,available,5.98,48.98,medium,low,6,namecheap,,,21/08/2026 17:28
 68d632c6-2962-4efa-8a00-fd46c5c176e3,entire.bike,available,5.98,48.98,high,low,6,namecheap,,,17/08/2026 09:57
+e2887324-90de-4665-b1b4-61f59cfa63c5,courtship.bike,available,8.24,31.41,high,low,9,porkbun,,,29/09/2026 18:31
 1157fa7b-0765-4cbd-bdd0-352c54228c8d,lowlife.bike,available,5.98,48.98,medium,low,7,namecheap,,,11/08/2026 09:22
 5815ec29-1d6c-4255-975a-700296f4ff87,drudgery.bike,available,5.98,48.98,medium,low,8,namecheap,,,08/09/2026 21:19
-e093a939-bc43-43ab-bacf-4f185b9b7cfe,hunger.bike,available,14.99,,high,low,6,name.com,,,
+e093a939-bc43-43ab-bacf-4f185b9b7cfe,hunger.bike,available,12,,high,low,6,unstoppable,,,29/09/2026 23:24
 1e674294-980d-48da-914c-6a9c8ee278c2,prissily.bike,available,5.98,48.98,low,low,8,namecheap,,,15/09/2026 21:29
 895d5399-5d20-483a-b839-604fe92afc01,indonesian.bike,available,5.98,48.98,high,low,10,namecheap,,,22/08/2026 03:20
 8884abb2-194f-4543-9da7-464673072217,annotating.bike,available,12.99,38.99,medium,low,10,namesilo,,,19/09/2026 10:41
@@ -371,11 +399,11 @@ bf85206f-2019-4436-b8c4-d61d4f25df31,crackle.bike,available,5.98,48.98,high,low,
 c2893705-e2ec-4ca4-8cd3-41a2ab1696d7,fruity.bike,available,5.98,48.98,high,low,6,namecheap,,,06/08/2026 21:00
 695a9106-fa4f-4e3f-bb9f-be67bba41952,cambrian.bike,available,5.98,48.98,high,low,8,namecheap,,,11/08/2026 15:45
 9bdd27aa-816a-44ba-a806-abcc3c037a5e,relocations.bike,available,12.99,38.99,medium,low,11,namesilo,,,21/09/2026 08:41
-052b4d36-31f6-4571-8ad9-ed0e904fcb1e,episcopal.bike,available,5.98,48.98,medium,low,9,namecheap,,,17/08/2026 11:09
+052b4d36-31f6-4571-8ad9-ed0e904fcb1e,episcopal.bike,available,5.98,48.98,high,low,9,namecheap,,,17/08/2026 11:09
 801bdf80-9496-4039-9415-6ba8b156d36b,conjunct.bike,available,5.98,48.98,high,low,8,namecheap,,,12/08/2026 20:08
 e4a0fedf-ab6b-4463-9eeb-e01a7136acb4,recognized.bike,available,12.99,38.99,high,low,10,namesilo,,,21/09/2026 15:28
 d69e118a-e3ae-496b-ac3e-4523a313d196,product.bike,resell,,,high,medium,7,"Sav.com, LLC - 30",30/08/2026 15:15,30/08/2027 15:15,28/09/2026 15:09
-a5d4689e-9b54-4c01-a271-66b806fbe221,bottles.bike,available,12.99,38.99,medium,low,7,namesilo,,,18/09/2026 04:05
+a5d4689e-9b54-4c01-a271-66b806fbe221,bottles.bike,available,12.99,38.99,high,low,7,namesilo,,,18/09/2026 04:05
 b33edc8e-2151-457f-80ed-18f292b0cb14,fern.bike,available,12.99,38.99,high,low,4,namesilo,,,29/09/2026 00:53
 59dd9a8d-f343-4975-b166-14f6958f947c,devilish.bike,available,5.98,48.98,medium,low,8,namecheap,,,14/08/2026 05:06
 e7cc2922-03bb-4aa1-b5e3-62348d53940f,washable.bike,available,5.98,48.98,high,low,8,namecheap,,,13/09/2026 08:29
@@ -387,23 +415,25 @@ b39dc976-c874-488a-ac0e-3b6eb1ee3b2e,resolute.bike,available,12.99,38.99,high,lo
 84d45fbd-d927-43b3-85a4-b125fd2c3948,erection.bike,available,12.99,38.99,high,low,8,namesilo,,,29/09/2026 00:49
 ffc3c7be-76ea-4cbf-97dd-1aa52e756cdb,edna.bike,available,14.99,50.99,high,low,4,name.com,,,27/09/2026 01:34
 cec5aa62-af30-4279-a285-247880ab4252,backup.bike,available,12.99,38.99,high,low,6,namesilo,,,28/09/2026 06:59
-69bc321f-3de9-4bf6-a0a9-297aa238dc24,benthos.bike,available,5.98,48.98,medium,low,7,namecheap,,,23/09/2026 08:45
+69bc321f-3de9-4bf6-a0a9-297aa238dc24,benthos.bike,available,5.98,48.98,high,low,7,namecheap,,,23/09/2026 08:45
 0f7ef406-aef3-4b47-91c3-f50b1f5a86cf,interbrain.bike,available,12.99,38.99,medium,low,10,namesilo,,,23/09/2026 11:55
 2e1cfada-8764-4b89-a0af-8afac090b086,thanksgiving.bike,available,12.99,38.99,high,low,12,namesilo,,,16/09/2026 10:18
 3c6716ef-7ea7-4b2a-9aeb-4c1037496b41,slovak.bike,available,12.99,38.99,high,low,6,namesilo,,,25/09/2026 10:44
 3beb4faf-8ae3-4c3b-b473-eface1942684,postural.bike,available,5.98,48.98,medium,low,8,namecheap,,,09/09/2026 00:40
-5b3933b2-3b3d-49c6-bed2-c324547e0dfd,lymphatic.bike,available,5.98,48.98,medium,low,9,namecheap,,,24/08/2026 12:33
+5b3933b2-3b3d-49c6-bed2-c324547e0dfd,lymphatic.bike,available,5.98,48.98,high,low,9,namecheap,,,24/08/2026 12:33
 8e89edba-0aee-4238-b17f-895f61e29b03,expired.bike,available,5.98,48.98,medium,low,7,namecheap,,,17/08/2026 18:21
+f897cabc-e27f-4c37-9932-ae894c072b31,guidelines.bike,available,12.99,38.99,medium,low,10,namesilo,,,29/09/2026 17:19
 3337a6fe-3289-464a-93b6-c118a7cd2ba8,rises.bike,available,12.99,38.99,low,low,5,namesilo,,,28/09/2026 13:01
 cfbfa731-8028-4b28-91db-7bdd0c3ce311,sails.bike,available,12.99,38.99,high,low,5,namesilo,,,28/09/2026 23:18
 9c5c0a93-babd-4410-b018-ab729abd9e82,alertly.bike,available,5.98,48.98,medium,low,7,namecheap,,,13/09/2026 18:40
 830aa780-3313-4098-a1e1-8efc0e6a71cc,slips.bike,available,5.98,48.98,high,low,5,namecheap,,,17/09/2026 12:24
+af6fc164-441b-4129-8a3d-a69508ecd017,janis.bike,available,30.2,30.2,high,low,5,cloudflare,,,29/09/2026 09:40
 c1cdbb67-c8af-405c-9d37-f79c3b732529,oxycontin.bike,available,12.99,38.99,medium,low,9,namesilo,,,20/09/2026 00:25
 0b33d09a-547c-4d09-926d-f283dff6dbe1,headache.bike,available,12.99,38.99,high,low,8,namesilo,,,24/09/2026 13:37
 b238c1d4-74c3-4623-b7c8-0a08a0bdfd99,shady.bike,available,5.98,48.98,high,low,5,namecheap,,,18/08/2026 09:37
 250d8244-c31e-4f4d-b5ed-41077b8c7f78,enchant.bike,available,5.98,48.98,high,low,7,namecheap,,,21/08/2026 07:46
 c3a80f1e-ae5c-4e1e-b8c1-b505295cd34d,whipped.bike,available,5.38,31.25,medium,low,7,spaceship,,,28/09/2026 21:21
-0edcc1b3-2c4e-4a6b-a96f-e906552b491a,crawling.bike,available,12,,medium,low,8,unstoppable,,,28/09/2026 05:30
+0edcc1b3-2c4e-4a6b-a96f-e906552b491a,crawling.bike,available,12,,high,low,8,unstoppable,,,28/09/2026 05:30
 ccf435a7-e7cb-4a45-ad58-f5912fed9c7d,piffle.bike,available,5.98,48.98,medium,low,6,namecheap,,,21/09/2026 21:41
 c3383b0d-665e-4a8a-9bd2-cc39d9857f6a,transitions.bike,available,14.99,,medium,low,11,name.com,,,
 750f8b19-1779-40a9-ab4a-1f48bec8a609,neill.bike,available,30.2,30.2,medium,low,5,cloudflare,,,28/09/2026 23:29
@@ -411,6 +441,7 @@ c3383b0d-665e-4a8a-9bd2-cc39d9857f6a,transitions.bike,available,14.99,,medium,lo
 cea205bb-207a-4d7e-b0b1-16fe5ff1c1c1,tacky.bike,available,5.98,48.98,medium,low,5,namecheap,,,18/08/2026 06:41
 a3f1afb3-e8cd-4a24-800e-f3c1822cfd55,moonlike.bike,available,5.98,48.98,medium,low,8,namecheap,,,25/08/2026 05:49
 a21c47c4-6500-4920-a0dc-d3b2c42fb4c7,overgreedy.bike,available,5.98,48.98,medium,low,10,namecheap,,,04/09/2026 20:38
+6759d739-1ffb-43d3-8ca7-9bed5df4b529,canterbury.bike,available,5.38,31.25,high,low,10,spaceship,,,29/09/2026 18:10
 dbe820f0-540b-47a6-9b2b-144001b6c467,fooling.bike,available,5.98,48.98,high,low,7,namecheap,,,18/08/2026 10:35
 67f2e4f1-ec02-4daa-8982-aa7ed069ec5d,guessing.bike,available,5.38,31.25,high,low,8,spaceship,,,28/09/2026 13:52
 b4a5423a-3663-4627-9f53-24018528ec7c,verdun.bike,available,5.98,48.98,medium,low,6,namecheap,,,22/09/2026 16:19
@@ -422,24 +453,27 @@ c0a25591-060d-4225-86be-437eb0abc002,gullible.bike,available,5.98,48.98,medium,l
 314873f2-2bf7-476b-b8b1-62bb1e7e5e21,tusked.bike,available,5.98,48.98,medium,low,6,namecheap,,,11/09/2026 21:29
 706bc7ce-e70c-4419-8d13-9408aac9943b,antoninus.bike,available,12.99,38.99,medium,low,9,namesilo,,,19/09/2026 15:34
 47f51ede-9c7e-45ff-8658-ab78dc34de31,flop.bike,available,5.98,48.98,high,low,4,namecheap,,,23/09/2026 12:03
-eebc4657-85f8-4694-a4c9-3bb7c25bf266,sprouted.bike,available,5.98,48.98,medium,low,8,namecheap,,,10/09/2026 16:55
+eebc4657-85f8-4694-a4c9-3bb7c25bf266,sprouted.bike,available,5.98,48.98,high,low,8,namecheap,,,10/09/2026 16:55
 78d983e1-33bd-487c-bac9-8f01d2633499,satan.bike,available,12.99,38.99,high,low,5,namesilo,,,29/09/2026 01:53
-4d64de96-6a75-45bf-9eba-956aaddc6705,profitably.bike,available,5.98,48.98,medium,low,10,namecheap,,,14/09/2026 20:29
+4d64de96-6a75-45bf-9eba-956aaddc6705,profitably.bike,available,5.98,48.98,high,low,10,namecheap,,,14/09/2026 20:29
 7932aabb-be74-4f5c-bf6f-443eb3c6387e,both.bike,available,14.99,,high,low,4,name.com,,,
 c738468d-83b1-43d3-b49e-e7a63f4103fd,inhouse.bike,available,14.99,,high,low,8,name.com,,,
 58c9a412-23b6-45c5-9d74-aed48892eb4e,squinty.bike,available,5.98,48.98,medium,low,7,namecheap,,,07/08/2026 03:20
 ae2043ac-9f93-4744-8797-d0a5611ae681,soursop.bike,available,12.99,38.99,high,low,7,namesilo,,,19/09/2026 10:36
 68eebb44-c692-47fd-831a-a0594e31c3a8,iris.bike,available,5.38,31.25,high,medium,4,spaceship,,,28/09/2026 01:54
-2b8b1bba-fe61-41a7-8e49-fbbaf38bebb0,ail.bike,available,5.98,48.98,medium,low,3,namecheap,,,17/09/2026 21:05
+2b8b1bba-fe61-41a7-8e49-fbbaf38bebb0,ail.bike,available,5.98,48.98,high,low,3,namecheap,,,17/09/2026 21:05
 c8ae0092-6713-4d52-bd22-ecb257ee95b7,allergenic.bike,available,5.98,48.98,medium,low,10,namecheap,,,
 737f5769-d589-43f5-87c8-63128b42ec10,pierson.bike,available,12,,medium,low,7,unstoppable,,,28/09/2026 23:01
+ee5e418e-af9e-40d3-813f-5ef73f9ad59a,perish.bike,available,30.2,30.2,medium,low,6,cloudflare,,,29/09/2026 18:32
+f50be6a0-80f4-4226-9ed9-146b2bf6f004,sleeper.bike,available,12.99,38.99,high,low,7,namesilo,,,29/09/2026 06:29
 085cdaec-e763-413f-b323-670b8b53bd6b,absorbent.bike,available,5.98,48.98,high,low,9,namecheap,,,
 c8019ccf-49af-4d91-9293-ce5304ba4360,dana.bike,available,12.99,38.99,high,low,4,namesilo,,,25/09/2026 22:21
 d1d8d074-a607-4f10-b360-3dd1af6139bd,argil.bike,available,12.99,38.99,medium,low,5,namesilo,,,20/09/2026 04:20
+d4b6d8e3-fb16-4973-a957-a8115f5f2a24,parkes.bike,available,12.99,38.99,medium,low,6,namesilo,,,29/09/2026 22:23
 71fe1fd1-2530-4ec7-a561-041f062de157,raining.bike,available,12.99,38.99,high,low,7,namesilo,,,19/09/2026 11:06
 c9e1c9a2-8a13-4920-b0d8-15fd23fb623c,archaic.bike,available,5.98,48.98,high,low,7,namecheap,,,
 428a8c0b-5051-4e02-91a0-dd57ba63bab5,volary.bike,available,5.98,48.98,medium,low,6,namecheap,,,21/09/2026 09:24
-4c1241b6-ad4c-4aa8-b5ff-57f92a340810,buster.bike,available,12.99,38.99,medium,low,6,namesilo,,,29/09/2026 00:10
+4c1241b6-ad4c-4aa8-b5ff-57f92a340810,buster.bike,available,12.99,38.99,high,low,6,namesilo,,,29/09/2026 00:10
 0853b029-d7bc-44bb-bf32-0cf087827d60,drive.bike,available,12.99,38.99,high,medium,5,namesilo,,,24/09/2026 12:12
 aaa68af5-bb9b-4000-ba48-9d126d3369ea,xinjiang.bike,available,5.38,31.25,medium,low,8,spaceship,,,28/09/2026 20:28
 98240ba0-8b91-4e83-ab3d-8123955329db,tumbling.bike,available,12.99,38.99,high,low,8,namesilo,,,17/09/2026 03:22
@@ -456,6 +490,7 @@ f6b9385f-535a-40cf-8264-d80e4abd2cd3,alvin.bike,available,12.99,38.99,high,low,5
 6cdef9e0-9f45-40d7-908d-af091868a7d4,oaten.bike,available,5.98,48.98,medium,low,5,namecheap,,,03/09/2026 23:28
 1da3132f-fb00-482d-a738-33926b58c4ec,erotism.bike,available,5.98,48.98,medium,low,7,namecheap,,,18/09/2026 16:15
 18c86733-b212-4433-a94c-33146b074d22,avian.bike,available,5.98,48.98,high,low,5,namecheap,,,07/08/2026 23:17
+6c90bff4-a5ab-4087-a42a-57b222e77851,submission.bike,available,12.99,38.99,high,low,10,namesilo,,,29/09/2026 07:36
 7f02a728-5363-4057-963e-0a2c744bf5d0,signatures.bike,available,5.38,31.25,medium,low,10,spaceship,,,28/09/2026 23:59
 e9399122-2f54-423c-b2e3-e66544a20607,lakh.bike,available,5.98,48.98,medium,low,4,namecheap,,,21/08/2026 15:36
 59baa0af-61c2-408e-a0a8-e1f93f73fcae,junkie.bike,available,5.98,48.98,medium,low,6,namecheap,,,17/09/2026 06:51
@@ -477,20 +512,22 @@ fc9c3163-9604-4d6c-a479-72d144862d4e,ella.bike,available,12.99,38.99,high,low,4,
 61419776-792e-4831-bf98-fc8cbe0f6289,wayne.bike,premium,78.54,78.54,high,low,5,namesilo,,,19/09/2026 13:47
 3f3fc3e8-85be-4004-8e38-dd2f2abfec4c,adsorption.bike,available,12.99,38.99,medium,low,10,namesilo,,,17/09/2026 10:05
 6ec10239-ea6b-473b-84db-ec874e6fea7b,unresolved.bike,available,5.98,48.98,medium,low,10,namecheap,,,14/08/2026 12:57
+7b4985ba-579b-4240-a23c-9b43f67763ca,imagining.bike,available,12.99,38.99,high,low,9,namesilo,,,29/09/2026 14:49
 3077e6d4-1d51-4b5d-91e8-bdb2dd11a032,sweetener.bike,available,12.99,38.99,high,low,9,namesilo,,,21/09/2026 19:45
-2a40ff7a-ace8-4cb0-a87b-3c841cd577d3,export.bike,available,14.99,,high,low,6,name.com,,,
+2a40ff7a-ace8-4cb0-a87b-3c841cd577d3,export.bike,available,12.99,38.99,high,low,6,namesilo,,,29/09/2026 18:42
 3203e9c6-9be8-45a8-8b79-2e863d136cf0,noted.bike,available,5.98,48.98,high,low,5,namecheap,,,11/08/2026 23:17
-eb926897-696b-4308-8faf-1742f92481bf,untold.bike,available,5.98,48.98,medium,low,6,namecheap,,,12/09/2026 21:37
+eb926897-696b-4308-8faf-1742f92481bf,untold.bike,available,5.98,48.98,high,low,6,namecheap,,,12/09/2026 21:37
 200b8d3d-27cc-4772-a10a-fd99e810286c,bootlicker.bike,available,5.98,48.98,medium,low,10,namecheap,,,19/09/2026 21:12
 3d417023-f0c7-4d8a-a0ea-26e0e70fe48f,agricola.bike,available,5.98,48.98,high,low,8,namecheap,,,17/09/2026 19:19
 0f4870f9-8847-4f9a-bb20-ab471d346918,antifreeze.bike,available,14.99,50.99,high,low,10,name.com,,,19/09/2026 14:23
-831dabad-97c0-4415-8d39-241c73bca67c,adorer.bike,available,12.99,38.99,medium,low,6,namesilo,,,17/09/2026 09:45
+831dabad-97c0-4415-8d39-241c73bca67c,adorer.bike,available,12.99,38.99,high,low,6,namesilo,,,17/09/2026 09:45
 8db52940-c000-4965-8e95-5c6e2320f932,contemplating.bike,available,12.99,38.99,low,low,13,namesilo,,,18/09/2026 04:50
 036327c8-c6e3-4ed9-ad8c-15694ca12cb2,anthidium.bike,available,5.98,48.98,medium,low,9,namecheap,,,19/09/2026 13:22
 cc728442-7a38-4061-bb7c-00b98bb01849,auction.bike,resell,,,high,low,7,"GoDaddy.com, LLC",04/09/2015 19:53,04/09/2027 19:53,26/09/2026 04:07
-55d5e042-fc61-443b-b0b4-9750e172ed20,fist.bike,available,14.99,,high,low,4,name.com,,,
+55d5e042-fc61-443b-b0b4-9750e172ed20,fist.bike,available,12.99,38.99,high,low,4,namesilo,,,29/09/2026 09:58
 23ef87e4-5c28-462f-b4ff-9d4a11c5b929,suitably.bike,available,5.98,48.98,medium,low,8,namecheap,,,13/09/2026 20:30
 ee2c2a38-50ba-4b06-a042-bb06b07882b1,baleful.bike,available,5.98,48.98,medium,low,7,namecheap,,,08/08/2026 09:39
+6993b688-3b29-42a4-a3e6-1170c65e0801,sartre.bike,available,5.38,31.25,high,low,6,spaceship,,,29/09/2026 07:22
 4bb2d603-e1db-43c2-b890-7858c28b4b9b,felt.bike,resell,,,high,low,4,"GoDaddy.com, LLC",28/01/2019 23:20,28/01/2027 23:20,26/09/2026 06:03
 a89c9f5f-7ce7-49e6-bfd2-c876e3563e41,snowed.bike,available,14.99,50.99,medium,low,6,name.com,,,20/09/2026 16:23
 a028e5e7-cb00-4639-ae9d-a3155894d197,elaine.bike,available,12.99,38.99,high,low,6,namesilo,,,25/09/2026 15:24
@@ -502,13 +539,16 @@ dd58f484-6460-46f7-8b7b-c70ad31d294d,done.bike,available,12.99,38.99,high,low,4,
 3b75eda6-91b0-4bec-8a42-bc6cedef71e2,sums.bike,available,5.98,48.98,medium,low,4,namecheap,,,18/09/2026 07:08
 249a90a5-c491-4980-9eb4-1ee185df0c46,standards.bike,available,12.99,38.99,medium,low,9,namesilo,,,27/09/2026 22:53
 05acd2e7-fc61-42d7-b6cb-d4c5ba8e0566,parky.bike,available,5.98,48.98,medium,low,5,namecheap,,,08/09/2026 01:38
-d4b8db9d-ac47-4f45-8ac8-7dcb42475544,modeled.bike,available,5.98,48.98,medium,low,7,namecheap,,,25/08/2026 02:51
+d4b8db9d-ac47-4f45-8ac8-7dcb42475544,modeled.bike,available,5.98,48.98,high,low,7,namecheap,,,25/08/2026 02:51
+3e653ad2-6dd7-44d0-951d-eaef6e23a410,monrovia.bike,available,12.99,38.99,high,low,8,namesilo,,,30/09/2026 00:57
+e570422a-fa09-45f5-82c7-3074dc53cd60,myths.bike,available,8.24,31.41,medium,low,5,porkbun,,,30/09/2026 00:32
 8c70aab0-2ee2-4acd-98da-f33d1fefcc61,leger.bike,available,12.99,38.99,medium,low,5,namesilo,,,16/09/2026 23:07
 1ddd6160-0646-495d-9720-6e11905f25ca,cave.bike,available,12.99,38.99,high,low,4,namesilo,,,24/09/2026 13:21
 6c56863a-9cab-4078-a93d-74c66c8c70d9,mutually.bike,available,5.98,48.98,medium,low,8,namecheap,,,15/09/2026 15:56
 455bbbbb-0080-40ae-9db5-bbc928faabd2,audiotape.bike,available,12.99,38.99,high,low,9,namesilo,,,21/09/2026 03:01
 72cb4fad-f2e1-46e1-8b2e-269520542f6e,infallible.bike,available,5.98,48.98,high,low,10,namecheap,,,22/08/2026 04:05
 05db61cd-ef6d-43a5-87ef-5246087ec5ee,wiggins.bike,available,5.38,31.25,high,low,7,spaceship,,,28/09/2026 16:37
+6c947139-8943-4167-86d5-6848fd6d6730,morgantown.bike,available,12.99,38.99,medium,low,10,namesilo,,,29/09/2026 19:41
 c03e51d4-1e13-4052-a71c-c08c373b3b85,aerophile.bike,available,12.99,38.99,medium,low,9,namesilo,,,17/09/2026 13:12
 f7896405-891c-4027-9402-459c2d6a27c1,legitimate.bike,available,5.98,48.98,high,low,10,namecheap,,,22/08/2026 23:04
 3d885693-5a29-41a1-901b-9d1050a1b316,steeply.bike,available,5.98,48.98,medium,low,7,namecheap,,,16/09/2026 06:59
@@ -523,59 +563,63 @@ bce57c93-493d-4d8d-b3de-a5731f9d0fb8,vial.bike,available,5.98,48.98,high,low,4,n
 1e8e5991-3c26-4d5c-9cd7-23dd8a76d117,bindweed.bike,available,5.98,48.98,medium,low,8,namecheap,,,23/09/2026 17:12
 35e9edc3-03dc-41ae-9fb0-d4602dcdb453,membered.bike,available,5.98,48.98,medium,low,8,namecheap,,,24/08/2026 19:49
 4318e18a-6279-4282-9080-299c7844ecb1,unfair.bike,available,5.38,31.25,medium,low,6,spaceship,,,28/09/2026 09:45
-88a91c9d-533e-4a3a-965c-7078715af8f5,unfriendly.bike,available,5.98,48.98,medium,low,10,namecheap,,,22/08/2026 05:19
+88a91c9d-533e-4a3a-965c-7078715af8f5,unfriendly.bike,available,5.98,48.98,high,low,10,namecheap,,,22/08/2026 05:19
 c89c82a6-d4fa-4fe3-8057-cf0a1dc1af5e,uniting.bike,available,14.99,50.99,high,low,7,name.com,,,18/09/2026 15:39
 9a784127-8bd4-4819-a6bd-bad1d4b30aaa,screens.bike,available,12,38.99,medium,low,7,unstoppable,,,28/09/2026 07:05
 7f03f179-09d2-4963-86f4-3661fa87212d,adversity.bike,available,12.99,38.99,high,low,9,namesilo,,,17/09/2026 10:54
 c3f77ea9-3be7-4fb3-bc3a-a5d31cc83bcb,quiet.bike,available,5.98,48.98,high,low,5,namecheap,,,23/09/2026 12:30
 d0b27c0d-b633-4f34-8e65-f55a344e300b,argot.bike,available,5.98,48.98,medium,low,5,namecheap,,,13/09/2026 04:14
 2ffb4a92-e924-4494-acde-03f9068ea978,sliding.bike,available,12.99,38.99,high,low,7,namesilo,,,27/09/2026 22:47
-0f670cc6-644f-40cb-9e71-e9ad8358607a,sensing.bike,available,14.99,,high,low,7,name.com,,,
+0f670cc6-644f-40cb-9e71-e9ad8358607a,sensing.bike,available,12.99,38.99,high,low,7,namesilo,,,29/09/2026 14:15
 22efe8e8-8841-483e-acb3-4a254bae78cb,moribund.bike,available,5.98,48.98,medium,low,8,namecheap,,,25/08/2026 06:31
 66247e4b-5db9-4521-a6f0-911b5e0f5917,illusional.bike,available,5.98,48.98,medium,low,10,namecheap,,,21/08/2026 20:11
 08c4e5a4-50dd-4d5a-8517-f5044798c6e7,admired.bike,available,5.98,48.98,high,low,7,namecheap,,,21/09/2026 18:53
 533e8308-ddf2-4572-b432-5a2003ec3e9c,apostolic.bike,available,5.98,48.98,medium,low,9,namecheap,,,06/08/2026 04:04
-90186288-edf6-47dc-a8a1-1aa6469b58fd,scanning.bike,available,12,,medium,low,8,unstoppable,,,28/09/2026 15:18
+90186288-edf6-47dc-a8a1-1aa6469b58fd,scanning.bike,available,12,,high,low,8,unstoppable,,,28/09/2026 15:18
 56dc9b92-e336-48e2-9c16-82b8c70e5968,britton.bike,available,5.38,31.25,medium,low,7,spaceship,,,28/09/2026 12:10
 35cf8012-ccd3-456d-9393-1ecd5bfc2a3e,whittier.bike,available,8.24,31.41,medium,low,8,porkbun,,,28/09/2026 10:10
 10c9ac22-5fe5-4d53-aa8f-dd424ebcbb8c,bearberry.bike,available,5.98,48.98,medium,low,9,namecheap,,,22/09/2026 20:57
 17b36b2d-cef7-4460-b5a3-da1c4bfd1605,academism.bike,available,5.98,48.98,medium,low,9,namecheap,,,16/09/2026 20:23
+dd11eccb-639d-40f2-af07-920a829efe87,initiator.bike,available,12.99,38.99,high,low,9,namesilo,,,29/09/2026 13:07
 636ff0da-e839-45d3-9151-7c4b1713164c,bake.bike,available,14.99,,high,low,4,name.com,,,
 f3daa80e-e6f0-4eb6-b07f-174f2bf51ac0,grub.bike,available,5.98,48.98,high,low,4,namecheap,,,11/08/2026 09:30
 7fda6824-f9a1-4784-bd1c-1677d4c09d91,christina.bike,available,5.98,48.98,high,low,9,namecheap,,,25/09/2026 14:23
 c09c955e-90e7-4f1a-bf76-9debb19ef638,baedeker.bike,available,12.99,38.99,medium,low,8,namesilo,,,21/09/2026 17:22
-bf312d3f-2a39-4b02-a79e-d401f883c8d0,steal.bike,available,14.99,,high,low,5,name.com,,,
+bf312d3f-2a39-4b02-a79e-d401f883c8d0,steal.bike,available,8.24,31.41,medium,low,5,porkbun,,,29/09/2026 05:35
 12e322c5-c218-4b0a-a35d-17dc00ec62a2,finger.bike,available,12.99,38.99,high,low,6,namesilo,,,25/09/2026 06:02
-dba77730-e33c-4c30-9508-8a22d6c1d5a7,thug.bike,available,12.99,38.99,medium,low,4,namesilo,,,27/09/2026 08:15
+dba77730-e33c-4c30-9508-8a22d6c1d5a7,thug.bike,available,12.99,38.99,high,low,4,namesilo,,,27/09/2026 08:15
 0882fddf-e052-45b8-ac14-c333af55c565,rosy.bike,available,5.98,48.98,high,low,4,namecheap,,,18/08/2026 09:27
 b977a88e-9652-426c-a985-fb516ef65680,venal.bike,available,5.98,48.98,medium,low,5,namecheap,,,11/08/2026 03:46
 113b34f3-fcf5-4490-b9ae-640a229132a4,seller.bike,available,12,,high,low,6,unstoppable,,,28/09/2026 19:50
 0115720d-4107-43b1-b77f-847f31b02df6,maiden.bike,available,5.98,48.98,high,low,6,namecheap,,,22/08/2026 05:32
 3ec90fe8-89d5-4529-8a2f-69fd2b41253d,tenthly.bike,available,12.99,38.99,medium,low,7,namesilo,,,16/09/2026 08:21
 4671ca93-4c99-47ce-81f6-33f9ccb58e47,analyser.bike,available,12.99,38.99,high,low,8,namesilo,,,19/09/2026 01:57
+66e85ef5-b66f-444e-b398-61515c717962,toughest.bike,available,5.38,31.25,medium,low,8,spaceship,,,30/09/2026 00:39
 b66618d5-9388-4ce9-9427-ac661025ab59,argentic.bike,available,5.98,48.98,medium,low,8,namecheap,,,06/08/2026 18:06
 4fb6e1b8-f85f-4753-a0f7-55478e44727f,smoke.bike,available,5.38,31.25,high,low,5,spaceship,,,27/09/2026 23:23
 1fc510a5-9d2a-41e9-a676-4609d9bdfccd,provider.bike,available,14.99,,high,low,8,name.com,,,
-b95b6c60-83e6-402e-98b1-40feb03bca41,curled.bike,available,5.98,48.98,medium,low,6,namecheap,,,13/08/2026 11:19
+b95b6c60-83e6-402e-98b1-40feb03bca41,curled.bike,available,5.98,48.98,high,low,6,namecheap,,,13/08/2026 11:19
 430b1946-d8b1-455f-a395-c0d1dac84a68,compared.bike,available,12.99,38.99,medium,low,8,namesilo,,,27/09/2026 09:01
 e240d246-f340-4b7f-a120-81cb4f8ceef7,narrowing.bike,available,5.98,48.98,high,low,9,namecheap,,,12/08/2026 23:00
 3fd644a5-3061-4fff-918a-45f5367023a4,ariadne.bike,available,14.99,50.99,high,low,7,name.com,,,20/09/2026 05:09
 9d02c933-6ed1-4ef9-92de-36b1e63eeb44,decelerate.bike,available,5.98,48.98,medium,low,10,namecheap,,,10/09/2026 11:21
-e6484794-6b36-4661-899a-a004408c1585,pneumonia.bike,available,5.38,31.25,medium,low,9,spaceship,,,28/09/2026 06:36
+e6484794-6b36-4661-899a-a004408c1585,pneumonia.bike,available,5.38,31.25,high,low,9,spaceship,,,28/09/2026 06:36
 3cb4f0d0-6a13-42da-a2ca-945b7fd91e02,bicycles.bike,premium,242,242,high,low,8,namesilo,,,18/09/2026 23:48
 fc425dfb-3a4c-4828-84f4-b45a23158776,vacantly.bike,available,12.99,38.99,low,low,8,namesilo,,,16/09/2026 10:32
 7a560a4e-158e-48c6-bf7d-4b51f082adca,cagey.bike,available,5.98,48.98,medium,low,5,namecheap,,,11/08/2026 13:19
 dbace50f-35af-48a0-9d3e-da19e232e623,defraud.bike,available,5.98,48.98,medium,low,7,namecheap,,,14/09/2026 08:02
 75a1a3b9-790a-4d20-a7ad-73dd873f5666,nature.bike,resell,,,high,low,6,"Spaceship, Inc.",06/04/2023 17:02,06/04/2027 17:02,26/09/2026 07:43
+08858f65-559e-4f1b-af40-2f47b7f370aa,scrutiny.bike,available,12.99,38.99,high,low,8,namesilo,,,30/09/2026 01:34
 a438b39c-8626-4b84-a732-7c2fc582d090,buena.bike,available,30.2,30.2,medium,low,5,cloudflare,,,27/09/2026 21:05
 479c9be2-f4cd-42c0-90c3-f2a680f0ce17,decorative.bike,available,5.98,48.98,high,low,10,namecheap,,,13/08/2026 02:51
 4b85b01d-be4f-49a0-a5c2-94193571dc86,foes.bike,available,5.98,48.98,low,low,4,namecheap,,,18/09/2026 06:38
 97583e2f-504c-4e98-8681-e30e6adf1ee9,scouting.bike,available,12.99,38.99,high,low,8,namesilo,,,29/09/2026 00:51
 9e31d97f-d67e-44b4-bfa8-ee6340d039b2,shortness.bike,available,12.99,38.99,medium,low,9,namesilo,,,16/09/2026 17:27
 97d084fc-a045-413a-81ff-276f7f4e656d,kurakkan.bike,available,12.99,38.99,medium,low,8,namesilo,,,17/09/2026 15:21
-78b2ac2a-1e85-42cf-bb1b-a4b1fa8ced5a,emulator.bike,available,12.99,38.99,medium,low,8,namesilo,,,19/09/2026 16:28
+78b2ac2a-1e85-42cf-bb1b-a4b1fa8ced5a,emulator.bike,available,12.99,38.99,high,low,8,namesilo,,,19/09/2026 16:28
 b93b949d-27e2-400d-9139-c2740d061b55,spruce.bike,available,14.99,50.99,high,low,6,name.com,,,13/08/2026 17:37
 327e74c9-c003-4382-b8ba-b9ce00436ec1,allow.bike,available,5.98,48.98,high,low,5,namecheap,,,06/08/2026 09:03
+eeb94f16-c761-4416-b9b0-10bb3718dd9a,sauer.bike,available,12.99,38.99,high,low,5,namesilo,,,29/09/2026 22:40
 9a404d90-0e37-45c4-853b-fe84cda354bd,vincent.bike,available,12.99,38.99,high,low,7,namesilo,,,25/09/2026 11:54
 5bd2fad6-d5b1-47b6-8361-c582217f02b7,dental.bike,available,12.99,38.99,high,low,6,namesilo,,,22/09/2026 02:57
 4076a360-e364-456c-a050-f7270d4c869e,carve.bike,available,14.99,50.99,high,low,5,name.com,,,13/08/2026 12:51
@@ -590,16 +634,19 @@ aeb3b8bd-1001-41ee-a1f9-98c675682924,samarium.bike,available,12.99,38.99,medium,
 ef4b90e3-0890-410d-ae9b-e4585ab41bb3,unbroken.bike,available,5.98,48.98,high,low,8,namecheap,,,22/08/2026 15:36
 2253138a-9e7d-4240-8450-03baa2ea2972,vernon.bike,available,5.38,31.25,high,low,6,spaceship,,,28/09/2026 15:42
 175b7774-c0fe-4ed3-ae6e-817907542c0f,liberate.bike,available,5.98,48.98,high,low,8,namecheap,,,18/08/2026 14:32
+2ddcef52-efac-497d-aab8-f5f55dc55116,historically.bike,available,30.2,30.2,medium,low,12,cloudflare,,,29/09/2026 08:34
 e8e3b6f2-91ec-49db-90ed-ef077e3c9c03,biotin.bike,available,14.99,50.99,high,low,6,name.com,,,23/09/2026 19:07
 274736b5-404b-43df-8888-924694139d82,astrology.bike,available,5.98,48.98,high,low,9,namecheap,,,20/09/2026 17:48
+01ff772c-e0a5-4067-aa52-9fcf997aaf61,challenges.bike,available,12.99,38.99,medium,low,10,namesilo,,,29/09/2026 11:27
 a274b143-d91d-410c-ab4f-738418367259,visions.bike,available,12.99,38.99,medium,low,7,namesilo,,,27/09/2026 23:41
 823c8640-d9ee-47af-9103-bd69b3a8e2df,baseness.bike,available,12.99,38.99,medium,low,8,namesilo,,,22/09/2026 10:25
 78e5379d-f5cd-4262-afce-4215db5f3d7d,sea.bike,premium,78.54,78.54,high,low,3,namesilo,,,
 74e9dcb5-1f9a-4167-9a15-b055ca803a55,faint.bike,available,5.98,48.98,high,low,5,namecheap,,,17/08/2026 21:01
 6da003bb-4abe-4191-884a-3233e5b6a956,encamp.bike,available,5.98,48.98,medium,low,6,namecheap,,,11/08/2026 15:56
-550d46d2-eeae-44a5-a21d-3a8b79c22745,capillary.bike,available,5.98,48.98,medium,low,9,namecheap,,,11/08/2026 17:53
+550d46d2-eeae-44a5-a21d-3a8b79c22745,capillary.bike,available,5.98,48.98,high,low,9,namecheap,,,11/08/2026 17:53
 5500dd20-111c-4a1c-b936-38dbfc9a052b,apt.bike,premium,78.54,78.54,high,low,3,namesilo,,,22/09/2026 07:23
-cded763c-18dd-467b-b0f3-37c3fbeab9b1,complement.bike,available,14.99,,high,low,10,name.com,,,
+cded763c-18dd-467b-b0f3-37c3fbeab9b1,complement.bike,available,12,,high,low,10,unstoppable,,,29/09/2026 10:29
+2e1409db-07a0-416b-9cd9-f58c8f2061bd,perished.bike,available,12.99,38.99,low,low,8,namesilo,,,29/09/2026 23:59
 7e651e24-1d1a-406f-865e-c6ffee78eff2,hannibal.bike,available,12.99,38.99,high,low,8,namesilo,,,27/09/2026 04:24
 aae60525-f1b4-48e5-a486-6e71965c4958,birth.bike,available,5.98,48.98,high,low,5,namecheap,,,29/09/2026 02:50
 21afc00b-5619-4189-a744-30b01fe78ed1,playaround.bike,available,12.99,38.99,medium,low,11,namesilo,,,17/09/2026 06:03
@@ -611,20 +658,20 @@ c3c4fa01-f91a-4b68-a692-7bbba4f5d0d6,percentage.bike,available,30.2,30.2,high,lo
 ebbe1a66-bd81-4592-9614-f74bd68ea7a9,ported.bike,available,12.99,38.99,high,low,6,namesilo,,,20/09/2026 15:39
 f865dacf-4ce0-4440-a794-98792c56aff9,expressing.bike,available,5.38,31.25,medium,low,10,spaceship,,,29/09/2026 05:05
 fbad8adb-1f32-439b-8728-0e264f7deb90,shanny.bike,available,12.99,38.99,medium,low,6,namesilo,,,24/09/2026 05:59
-b56dd1ff-1077-4b38-aa98-ab768da25524,dazzled.bike,available,14.99,50.99,medium,low,7,name.com,,,13/08/2026 18:57
+b56dd1ff-1077-4b38-aa98-ab768da25524,dazzled.bike,available,14.99,50.99,high,low,7,name.com,,,13/08/2026 18:57
 02aab74b-d742-4c88-bbc0-dbde377c5edf,rabbit.bike,available,14.99,50.99,high,low,6,name.com,,,25/09/2026 08:52
-ce682350-94ce-4021-9cfe-781483302288,pillowcase.bike,available,14.99,,medium,low,11,name.com,,,
+ce682350-94ce-4021-9cfe-781483302288,pillowcase.bike,available,14.99,,high,low,11,name.com,,,
 b8ac8dda-c22b-45e4-af68-b28a21036bbb,finespun.bike,available,5.98,48.98,medium,low,8,namecheap,,,18/08/2026 04:51
 d099bb29-19f1-4d0d-a47b-7be4d5341913,carbon.bike,premium,242,242,high,medium,6,namesilo,,,20/09/2026 23:21
-96027e5f-028c-45c7-8fb3-f8e060189e2e,manila.bike,premium,78.54,78.54,high,low,6,namesilo,,,
+96027e5f-028c-45c7-8fb3-f8e060189e2e,manila.bike,premium,85.8,85.8,high,low,6,namecheap,,,29/09/2026 07:06
 26e1ec75-fa91-4b36-9563-b0cb12739303,altogether.bike,available,5.98,48.98,high,low,10,namecheap,,,
-1639e5de-2706-4f9b-930b-b56d82ce0b18,evacuation.bike,available,12.99,38.99,medium,low,10,namesilo,,,28/09/2026 09:36
+1639e5de-2706-4f9b-930b-b56d82ce0b18,evacuation.bike,available,12.99,38.99,high,low,10,namesilo,,,28/09/2026 09:36
 5ab5b551-f352-4ce2-9787-2d3749ae6460,crisply.bike,available,5.98,48.98,medium,low,7,namecheap,,,14/09/2026 09:37
 9ff70787-a16e-41c4-9874-b1f38415d2d8,admitting.bike,available,5.38,31.25,medium,low,9,spaceship,,,28/09/2026 20:58
 0b0239d7-aa8b-42e0-835c-5cb49195f61a,plutonium.bike,available,5.98,48.98,high,low,9,namecheap,,,21/09/2026 00:12
 92e2436d-f2fe-4da2-9a95-40ee3a178568,longways.bike,available,5.98,48.98,medium,low,8,namecheap,,,22/08/2026 23:44
-41f9fbb3-e12e-4d57-b30c-f3e7e02e25ab,elegantly.bike,available,5.98,48.98,medium,low,9,namecheap,,,14/09/2026 15:17
-7d50175d-4514-4d05-ac96-d585d236578b,thou.bike,available,12.99,38.99,medium,low,4,namesilo,,,21/09/2026 11:11
+41f9fbb3-e12e-4d57-b30c-f3e7e02e25ab,elegantly.bike,available,5.98,48.98,high,low,9,namecheap,,,14/09/2026 15:17
+7d50175d-4514-4d05-ac96-d585d236578b,thou.bike,available,12.99,38.99,high,low,4,namesilo,,,21/09/2026 11:11
 6ceb8916-1190-45fc-bcc8-42ec92fb2c7e,perverse.bike,available,5.98,48.98,medium,low,8,namecheap,,,14/08/2026 02:31
 0872ebc3-3129-442a-a631-855488a2c570,broom.bike,available,12.99,38.99,high,low,5,namesilo,,,24/09/2026 10:47
 eddb06eb-9313-41c3-bece-00b3799f1508,fulton.bike,available,5.98,48.98,high,low,6,namecheap,,,25/09/2026 06:12
@@ -641,12 +688,14 @@ b8b606e6-9b74-4dec-923b-dff6521a72fd,yowl.bike,available,5.98,48.98,medium,low,4
 63b0be02-bfd2-4259-ba82-8381f5575513,quiescent.bike,available,5.98,48.98,medium,low,9,namecheap,,,09/09/2026 08:47
 c690b221-917a-4d72-816b-ef67671647db,islands.bike,available,14.99,,high,low,7,name.com,,,
 8c7004c7-8f49-4806-be1d-071a42018851,hobby.bike,premium,242,242,high,low,5,namesilo,,,21/09/2026 09:40
+78528648-d2d4-4434-a884-d107898ddf3f,pergamon.bike,available,30.2,30.2,medium,low,8,cloudflare,,,29/09/2026 22:24
 10499149-9346-494f-b3dc-bbcd11e1dc04,witness.bike,available,12.99,38.99,high,low,7,namesilo,,,21/09/2026 01:35
 ff6afe91-8bf8-4491-b3f7-bc974e2a683a,allows.bike,available,12.99,38.99,low,low,6,namesilo,,,28/09/2026 08:44
 f3960d89-c7bb-4ee8-b46d-a48f8ac471b4,recommended.bike,available,30.2,30.2,medium,low,11,cloudflare,,,28/09/2026 08:36
 a555de03-77ba-4d15-b5f6-1692ffe31268,modified.bike,available,5.98,48.98,high,low,8,namecheap,,,25/08/2026 03:15
 2206b6c0-3417-420e-b62a-5ef15fe05f27,truant.bike,available,5.98,48.98,high,low,6,namecheap,,,08/08/2026 01:41
 16b85519-8004-4417-ad37-45ebcd2b7c13,asserted.bike,available,5.98,48.98,medium,low,8,namecheap,,,07/08/2026 05:54
+bd962c21-4c8b-4ae3-ad49-a3d78b601f47,motown.bike,available,12.99,38.99,high,low,6,namesilo,,,29/09/2026 06:38
 437db69a-c6e1-4517-ab92-3ade78091429,defect.bike,available,12.99,38.99,high,low,6,namesilo,,,24/09/2026 05:34
 17206cce-3e23-402f-91db-605dc752fe04,victorian.bike,available,5.98,48.98,high,low,9,namecheap,,,27/09/2026 05:38
 7edbe7ac-f4d3-4f17-97b4-24e108729d7a,holding.bike,available,5.38,31.25,high,low,7,spaceship,,,29/09/2026 02:03
@@ -660,24 +709,27 @@ ecfa606d-b3b4-438d-8260-033f9d72ab5a,alleviant.bike,available,5.98,48.98,medium,
 3fe41e48-938f-44a1-9f26-7a7e3c048c90,marie.bike,available,12.99,38.99,high,low,5,namesilo,,,25/09/2026 17:44
 bdfa4e11-1ddc-4cfe-b59b-add5d71a96fc,grisly.bike,available,5.98,48.98,medium,low,6,namecheap,,,18/08/2026 23:15
 79e82a50-cd1e-416b-85b8-edd7334ce502,sextuple.bike,available,5.98,48.98,medium,low,8,namecheap,,,10/09/2026 05:19
-00fe2f19-3663-4798-b818-a5f83e3e4e2a,censored.bike,available,5.98,48.98,medium,low,8,namecheap,,,11/08/2026 23:47
+00fe2f19-3663-4798-b818-a5f83e3e4e2a,censored.bike,available,5.98,48.98,high,low,8,namecheap,,,11/08/2026 23:47
 13cd02eb-44f8-4767-8d18-609209f12845,bleed.bike,available,12.99,38.99,medium,low,5,namesilo,,,28/09/2026 14:26
 885756ea-fb8e-4843-8f39-c5d2e6f3ddac,nihilistic.bike,available,5.98,48.98,medium,low,10,namecheap,,,03/09/2026 17:24
 954aaf9b-eed6-4b8f-af2f-ca3d4f27e3d4,windless.bike,available,5.98,48.98,medium,low,8,namecheap,,,13/09/2026 12:14
 2fd4dbf5-023c-4184-90a6-c5012633d06a,lighted.bike,available,5.98,48.98,high,low,7,namecheap,,,21/08/2026 20:09
 39921441-7d44-4d2c-8500-b5c287447d49,significantly.bike,available,14.99,,medium,low,13,name.com,,,
-cab09acf-b932-405b-a82b-1841607ca7cf,sevenfold.bike,available,5.98,48.98,medium,low,9,namecheap,,,10/09/2026 04:25
+cab09acf-b932-405b-a82b-1841607ca7cf,sevenfold.bike,available,5.98,48.98,high,low,9,namecheap,,,10/09/2026 04:25
 3c048007-a4c4-4151-b03c-80acf44eb8ff,quickly.bike,available,12.99,38.99,high,low,7,namesilo,,,27/09/2026 09:22
+c5724e99-22f1-43fc-bab9-0a195433ad94,centimeters.bike,available,8.24,32.21,medium,low,11,dynadot,,,29/09/2026 17:55
 008fa867-df7d-47c0-b4a6-9806df3c1e2c,cashew.bike,available,12.99,38.99,high,low,6,namesilo,,,19/09/2026 01:00
 9e664078-2455-4e83-84a6-bb4a764dc975,acquisition.bike,available,30.2,30.2,high,low,11,cloudflare,,,28/09/2026 05:29
 76c85814-63fa-4603-a64c-7f1373761840,albee.bike,available,5.98,48.98,medium,low,5,namecheap,,,18/09/2026 02:31
 6763406f-566a-4a99-905c-171fc69b1584,oceangoing.bike,available,5.98,48.98,medium,low,10,namecheap,,,04/09/2026 00:20
 5a71123a-e8f1-425c-882e-28feeef269df,joliet.bike,available,12.99,38.99,medium,low,6,namesilo,,,29/09/2026 01:26
+90f54ccf-207f-47a8-9dae-2a47d9070ed8,smiley.bike,available,5.38,31.25,high,low,6,spaceship,,,29/09/2026 20:24
 a0f0c514-553f-4f28-8bfb-6a468777bc4f,sovereign.bike,available,12.99,38.99,high,medium,9,namesilo,,,22/09/2026 14:14
 5a146d0f-13cb-446d-8893-5ec9413d635a,winona.bike,available,8.24,32.21,medium,low,6,dynadot,,,28/09/2026 22:06
 a0ad09ca-54b0-4caf-af1c-088b561e340e,crested.bike,available,5.98,48.98,high,low,7,namecheap,,,13/08/2026 06:20
 3b86640b-1c1a-466f-b41a-f5e688430eb8,seaborne.bike,available,5.98,48.98,medium,low,8,namecheap,,,10/09/2026 00:34
 fdfa6da7-37cc-4cbc-8a96-c024431dd11d,recessed.bike,available,5.98,48.98,medium,low,8,namecheap,,,13/08/2026 22:57
+f9da8445-40d3-4c63-a701-d7ad2605bc1c,conventions.bike,available,12.99,38.99,medium,low,11,namesilo,,,29/09/2026 16:17
 6c44901a-5549-44f1-abfb-ccf52750b521,blabby.bike,available,5.98,48.98,low,low,6,namecheap,,,09/08/2026 21:03
 60809e19-0ab5-4ad4-82c3-de41323a41d1,affecting.bike,available,5.98,48.98,high,low,9,namecheap,,,
 f8d324ce-8f7b-4836-90e5-908d6e5db08e,tang.bike,available,12.99,38.99,high,low,4,namesilo,,,24/09/2026 01:32
@@ -688,14 +740,14 @@ d68ed152-8cb8-4257-84d8-c9b73bb65c58,rosacea.bike,available,12.99,38.99,medium,l
 ff8d14b3-3da7-4368-8020-2a9c48c7c9f9,bathe.bike,available,8.24,31.41,high,low,5,porkbun,,,29/09/2026 01:32
 8585bcf2-9a7e-4e95-969f-f60b7c27dc52,pedagogic.bike,available,5.98,48.98,medium,low,9,namecheap,,,08/09/2026 12:15
 90b54e02-d294-4dc1-8b4f-f69a6afe7016,attempting.bike,available,5.38,31.25,medium,low,10,spaceship,,,28/09/2026 12:29
-684014b9-bbbf-4412-a7e3-e70034e3b5c3,hypocrite.bike,available,5.98,48.98,medium,low,9,namecheap,,,08/09/2026 19:08
-2e15e6cb-a1ac-45b3-a5b7-fed009502c4c,barman.bike,available,12.99,38.99,medium,low,6,namesilo,,,22/09/2026 06:19
+684014b9-bbbf-4412-a7e3-e70034e3b5c3,hypocrite.bike,available,5.98,48.98,high,low,9,namecheap,,,08/09/2026 19:08
+2e15e6cb-a1ac-45b3-a5b7-fed009502c4c,barman.bike,available,12.99,38.99,high,low,6,namesilo,,,22/09/2026 06:19
 060e7d02-3091-4616-9817-09d226e6d9a5,brady.bike,available,12.99,38.99,high,low,5,namesilo,,,25/09/2026 02:15
 5a272b3b-c7fa-4a03-8e3a-ee3dbb318167,fathers.bike,available,5.98,48.98,medium,low,7,namecheap,,,27/09/2026 09:58
 5165effa-6228-4668-9206-83398398e31e,centimeter.bike,available,12.99,38.99,high,low,10,namesilo,,,24/09/2026 13:34
-63df81a1-0006-4518-8862-7d8c98dd04e7,plate.bike,available,14.99,,high,low,5,name.com,,,
+63df81a1-0006-4518-8862-7d8c98dd04e7,plate.bike,available,5.38,31.25,high,low,5,spaceship,,,29/09/2026 10:15
 c00cab2e-0717-46de-9a40-805da68f4660,fixedly.bike,available,5.98,48.98,medium,low,7,namecheap,,,14/09/2026 18:44
-f70c98b6-1ee1-474a-bbec-ed5d2684ff99,sneeze.bike,available,14.99,,medium,low,6,name.com,,,
+f70c98b6-1ee1-474a-bbec-ed5d2684ff99,sneeze.bike,available,14.99,,high,low,6,name.com,,,
 2ebac410-0e66-48ad-a665-b38f99ee9842,nominal.bike,available,5.98,48.98,high,low,7,namecheap,,,03/09/2026 18:17
 45d47307-4145-448e-9c5c-393e425b72f7,elbow.bike,available,5.98,48.98,high,low,5,namecheap,,,20/09/2026 11:23
 3872b6fa-3483-4eb4-bb34-a71138ad4a3c,ballyhoo.bike,available,5.98,48.98,high,low,8,namecheap,,,21/09/2026 23:32
@@ -703,16 +755,18 @@ ef08c59c-3503-4b14-91a6-8d7037e5beb9,antipodal.bike,available,5.98,48.98,medium,
 dded8e31-4059-40da-8083-b2e82aceda36,teaching.bike,available,5.98,48.98,high,low,8,namecheap,,,24/09/2026 22:15
 c2a29cdd-4e6d-4c24-b9d2-b0098e40fb3f,dock.bike,available,5.98,48.98,high,low,4,namecheap,,,22/09/2026 23:34
 5d1fff0e-0a87-493a-8d2b-696ebc104cbc,galangal.bike,available,14.99,50.99,medium,low,8,name.com,,,18/09/2026 14:03
-01c1900e-e6ea-4d5f-85ce-2a3682b138d0,shaded.bike,available,5.98,48.98,medium,low,6,namecheap,,,10/09/2026 05:23
+01c1900e-e6ea-4d5f-85ce-2a3682b138d0,shaded.bike,available,5.98,48.98,high,low,6,namecheap,,,10/09/2026 05:23
 eecc330e-37ea-4022-9b63-b246aab4b114,opening.bike,available,5.98,48.98,high,low,7,namecheap,,,04/09/2026 16:15
+687d5992-6143-419a-bf26-f8554bceb4bf,tasted.bike,available,30.2,30.2,medium,low,6,cloudflare,,,29/09/2026 11:03
 7fa0db54-a8ff-47f9-8492-485c38d83d5d,sphincter.bike,available,12.99,38.99,medium,low,9,namesilo,,,19/09/2026 03:31
 46758204-e4e0-438f-8e56-81a280795859,body.bike,premium,242,242,high,low,4,namesilo,,,24/09/2026 06:32
 c4dfff73-6553-4b32-affc-bb5e0730452f,acoustical.bike,available,5.98,48.98,medium,low,10,namecheap,,,
 010badf8-91bd-46f5-af51-e4b858791df3,siege.bike,available,12.99,38.99,high,low,5,namesilo,,,23/09/2026 04:50
 5c41f890-83b9-42b1-9ac1-9320eb7ad7c3,ages.bike,available,14.99,,medium,low,4,name.com,,,
 81ee7427-6c45-486f-bf35-c68fa9237c49,makomako.bike,available,12.99,38.99,medium,low,8,namesilo,,,20/09/2026 05:57
-d828395d-07e1-4a2d-aa2e-dd435aaae5ea,pathology.bike,available,12.99,38.99,medium,low,9,namesilo,,,29/09/2026 01:49
+d828395d-07e1-4a2d-aa2e-dd435aaae5ea,pathology.bike,available,12.99,38.99,high,low,9,namesilo,,,29/09/2026 01:49
 e3d02558-5d7b-4e79-b6cc-3e010a71355d,miocene.bike,available,12.99,38.99,high,low,7,namesilo,,,25/09/2026 23:43
+1f3f1eb2-15c4-4a4d-b2de-54ee306ce983,lichens.bike,available,30.2,30.2,low,low,7,cloudflare,,,29/09/2026 05:48
 221acaf9-def8-4696-82a2-dd4ca847c7a0,drown.bike,available,14.99,,medium,low,5,name.com,,,
 c246a569-06b9-45d2-8d87-61f578866321,extends.bike,available,12.99,38.99,medium,low,7,namesilo,,,18/09/2026 17:32
 ec43bb73-5077-4165-b4a2-7efde273427a,forehand.bike,available,5.98,48.98,medium,low,8,namecheap,,,18/08/2026 11:38
@@ -723,6 +777,7 @@ ec43bb73-5077-4165-b4a2-7efde273427a,forehand.bike,available,5.98,48.98,medium,l
 50b55d1e-48f2-4ba7-ab75-1911858c8e21,nursed.bike,available,5.98,48.98,medium,low,6,namecheap,,,03/09/2026 23:03
 d1da11ad-b80f-4f6e-8684-d8e6a50f8a99,scattering.bike,available,12.99,38.99,high,low,10,namesilo,,,24/09/2026 22:59
 8aa9dd5b-c6ab-4b49-a995-17e324a507d7,reportable.bike,available,5.98,48.98,medium,low,10,namecheap,,,09/09/2026 14:36
+b09075cf-af6f-4a4b-b6a2-2b0dd17620e5,incense.bike,available,5.38,31.25,high,low,7,spaceship,,,29/09/2026 19:17
 a9382894-d131-4ba2-bca8-517f07c4573a,slaphappy.bike,available,5.98,48.98,medium,low,9,namecheap,,,14/08/2026 05:04
 7cf9909c-fe4a-4fc2-b26b-d30154ef22c2,scatty.bike,available,5.98,48.98,medium,low,6,namecheap,,,
 0eb7fe90-38f6-444a-ad3f-822ad90627b1,octagonal.bike,available,5.98,48.98,medium,low,9,namecheap,,,04/09/2026 00:37
@@ -736,15 +791,16 @@ f6e951e3-0a8a-4e0b-80d6-038e5aad8ee8,tray.bike,available,5.38,31.25,medium,low,4
 431645fa-501a-458a-a3bf-b31681ad6bdf,dairy.bike,available,5.38,31.25,high,low,5,spaceship,,,28/09/2026 22:44
 c0503080-3343-4e98-8c98-1901bd07a420,alp.bike,premium,38.94,38.94,high,low,3,namesilo,,,18/09/2026 13:29
 cf73f30d-e676-40cb-8b3c-3f3fde9968c3,outbound.bike,available,5.98,48.98,high,low,8,namecheap,,,04/09/2026 18:57
-b64f0853-fc3c-4128-abf1-b26794a988b5,franck.bike,available,5.38,31.25,medium,low,6,spaceship,,,29/09/2026 00:24
+449ba241-5816-4951-a55f-542c399f96e7,firms.bike,available,30.2,30.2,medium,low,5,cloudflare,,,29/09/2026 17:52
+b64f0853-fc3c-4128-abf1-b26794a988b5,franck.bike,available,5.38,31.25,high,low,6,spaceship,,,29/09/2026 00:24
 a3742d25-5bcd-45ee-bd4b-5b9426248575,construct.bike,available,12.99,38.99,high,low,9,namesilo,,,24/09/2026 10:59
 c3e7d6ec-746c-4991-bf5f-4d6b239662d0,receiving.bike,available,5.38,31.25,high,low,9,spaceship,,,27/09/2026 17:11
 1487b494-2ae4-4b80-8de2-1d2f1d11f02a,expects.bike,available,12.99,38.99,medium,low,7,namesilo,,,20/09/2026 01:39
 b18c92d1-b290-4fea-9a6a-69229f77d142,genital.bike,available,5.98,48.98,medium,low,7,namecheap,,,18/08/2026 21:40
 57ca116c-2ee8-4570-b8dd-00fcb68edc50,bubbling.bike,available,5.98,48.98,high,low,8,namecheap,,,11/08/2026 07:15
 6f342399-2763-4d85-a1b5-b2a00aed3f33,pithy.bike,available,12.99,38.99,high,low,5,namesilo,,,19/09/2026 23:01
-fb36e5ea-61ab-4b55-9962-0a2d0adffbf6,nitric.bike,available,5.98,48.98,medium,low,6,namecheap,,,08/08/2026 02:58
-9f010936-b87f-4c73-b31e-0a80f46f0630,stability.bike,available,14.99,,high,low,9,name.com,,,
+fb36e5ea-61ab-4b55-9962-0a2d0adffbf6,nitric.bike,available,5.98,48.98,high,low,6,namecheap,,,08/08/2026 02:58
+9f010936-b87f-4c73-b31e-0a80f46f0630,stability.bike,available,12,,high,low,9,unstoppable,,,29/09/2026 11:16
 9fc1a5b0-0285-49da-a6f8-8892be1161b4,complex.bike,available,12.99,38.99,high,low,7,namesilo,,,23/09/2026 17:35
 4c5b9a2a-9e14-40bc-bc32-a07643d1bc57,adulterate.bike,available,5.98,48.98,medium,low,10,namecheap,,,
 ee5dd8b0-c6b5-47a7-8b00-7c78d0bbce65,feculent.bike,available,5.98,48.98,low,low,8,namecheap,,,18/08/2026 00:32
@@ -759,8 +815,8 @@ ed81840c-05bd-449c-abba-21849ec8c8f7,verboten.bike,available,5.98,48.98,medium,l
 0bcf8170-c27b-4834-b05a-195b50634885,slug.bike,available,5.98,48.98,high,low,4,namecheap,,,23/09/2026 13:52
 d8a46d3e-7bc5-4b11-97c2-db6a18bbc1f9,azote.bike,available,12.99,38.99,medium,low,5,namesilo,,,21/09/2026 11:27
 fa328129-9618-4aa2-809a-8df936f62e38,potentiality.bike,available,14.99,,high,low,12,name.com,,,
-aece4861-2dec-4a9b-9a5e-7b2e23f3ac26,abreast.bike,available,5.98,48.98,medium,low,7,namecheap,,,
-8dccd9c7-579c-40bf-93cd-d93bec6fe560,honors.bike,available,12,,medium,low,6,unstoppable,,,28/09/2026 13:12
+aece4861-2dec-4a9b-9a5e-7b2e23f3ac26,abreast.bike,available,5.98,48.98,high,low,7,namecheap,,,
+8dccd9c7-579c-40bf-93cd-d93bec6fe560,honors.bike,available,12,,high,low,6,unstoppable,,,28/09/2026 13:12
 6c6891d1-281f-4d78-b3b5-43d7b1a4dbf6,someone.bike,available,12.99,38.99,high,low,7,namesilo,,,25/09/2026 09:13
 7f169bfa-f756-48f4-adeb-db1130ec1284,bangla.bike,available,14.99,50.99,high,low,6,name.com,,,22/09/2026 01:51
 e4c3b7a7-3829-447a-9593-ce14fe1b4325,gabrielle.bike,available,12.99,38.99,medium,low,9,namesilo,,,28/09/2026 21:50
@@ -770,6 +826,7 @@ c1a86f81-d7da-4cec-b0b0-f496a331e2a3,seized.bike,available,14.99,,medium,low,6,n
 be9518a4-7e50-4b15-9e81-b98b19ff04cb,rushing.bike,available,12.99,38.99,high,low,7,namesilo,,,27/09/2026 17:20
 c22d8896-80e2-4748-9d0e-1096be206ae3,skype.bike,available,,,high,medium,5,,,,
 c159795b-8a28-4966-88e5-513ddc4eab43,marian.bike,available,5.98,48.98,high,low,6,namecheap,,,24/08/2026 15:53
+1ca47706-918c-4a4d-96fb-afbca82db200,computable.bike,available,5.38,31.25,high,low,10,spaceship,,,30/09/2026 01:29
 edc12d89-ce7a-4fce-bd3c-7afa0f2704f1,rnas.bike,available,12,,low,low,4,unstoppable,,,29/09/2026 05:15
 1dc47720-d46e-4bda-abbc-6387a786ae18,blacking.bike,available,5.98,48.98,medium,low,8,namecheap,,,24/09/2026 02:49
 88b0a0db-1669-4514-ae12-f8485eaf6a10,sot.bike,available,5.98,48.98,medium,low,3,namecheap,,,14/08/2026 20:22
@@ -794,11 +851,12 @@ ad682e67-5a36-4735-976b-cb730989dfc5,agha.bike,available,12.99,38.99,medium,low,
 1e38f8e4-018a-4199-9579-afd6de5edd5e,glial.bike,available,5.98,48.98,medium,low,5,namecheap,,,20/08/2026 14:24
 05a52649-992c-49e0-92ec-7f9578ff7b1d,gladiola.bike,available,5.98,48.98,medium,low,8,namecheap,,,19/08/2026 00:09
 95685785-8e74-435d-8b7e-50b3ac02e30b,pvc.bike,available,30.2,30.2,high,low,3,cloudflare,,,29/09/2026 01:51
-08d86a18-c9ff-49bb-b4da-bde912e55a86,occur.bike,available,14.99,,high,low,5,name.com,,,
+08d86a18-c9ff-49bb-b4da-bde912e55a86,occur.bike,available,12.99,38.99,high,low,5,namesilo,,,29/09/2026 22:05
 10f891d9-ed10-4c97-8773-19b889ae0fee,overrated.bike,available,12.99,38.99,medium,low,10,namesilo,,,18/09/2026 11:36
-4eafd04f-b0a3-41dd-bc76-2ded7a9d10fe,seward.bike,available,5.38,31.25,medium,low,6,spaceship,,,28/09/2026 03:05
+4eafd04f-b0a3-41dd-bc76-2ded7a9d10fe,seward.bike,available,5.38,31.25,high,low,6,spaceship,,,28/09/2026 03:05
 766710d4-2077-45d7-b8bd-535884be3e92,intensity.bike,available,12.99,38.99,high,low,9,namesilo,,,28/09/2026 09:23
 4d7875fd-3e27-4771-b018-9b9a5acfdeb4,aleatory.bike,available,5.98,48.98,medium,low,8,namecheap,,,
+42c6741d-a207-490a-9c55-765652fdc65f,woolwich.bike,available,12.99,38.99,medium,low,8,namesilo,,,29/09/2026 15:50
 76d8b551-0045-4742-9bc5-ece8cc3f7d9e,apidae.bike,available,12.99,38.99,medium,low,6,namesilo,,,19/09/2026 17:24
 74ee7e22-a791-4bf6-bf34-14bb45840355,algorithm.bike,available,12.99,38.99,high,low,9,namesilo,,,18/09/2026 07:16
 17eb65a9-7d41-466a-9c14-ff9906253a10,walton.bike,available,12.99,38.99,high,low,6,namesilo,,,25/09/2026 05:07
@@ -815,7 +873,7 @@ fb653834-f4be-416a-99d5-743f3dcb2f71,furtive.bike,available,5.98,48.98,medium,lo
 3a7c201b-fa49-4e9b-b2bb-3af6054fcaa3,merrily.bike,available,5.98,48.98,high,low,7,namecheap,,,14/09/2026 00:25
 9175924d-b410-49af-af49-e5ef074f8a0f,abdominous.bike,available,5.98,48.98,medium,low,10,namecheap,,,
 1b4b5dc1-9fe4-4d59-9aeb-f3ea0b99a117,eldritch.bike,available,5.98,48.98,medium,low,8,namecheap,,,16/08/2026 02:21
-370c2eeb-1cce-4e19-ad26-8c5d62cbc87c,dong.bike,available,12.99,38.99,medium,low,4,namesilo,,,28/09/2026 14:32
+370c2eeb-1cce-4e19-ad26-8c5d62cbc87c,dong.bike,available,12.99,38.99,high,low,4,namesilo,,,28/09/2026 14:32
 aad548df-be6b-4b7c-968f-28c724750493,delusion.bike,available,5.98,48.98,high,low,8,namecheap,,,24/09/2026 21:45
 ef62b9da-f07a-4e17-8896-f0fc8e8c531b,absence.bike,available,12,,medium,low,7,unstoppable,,,28/09/2026 17:04
 deccc9be-24b6-4376-8125-a2198b30563a,beatles.bike,available,12.99,38.99,high,low,7,namesilo,,,22/09/2026 21:43
@@ -831,13 +889,14 @@ b3c4d888-1d0a-480c-9699-f98233be18cc,grossly.bike,available,5.98,48.98,medium,lo
 500a13f0-29b0-4525-979c-4fd1d98d20d7,rover.bike,available,5.98,48.98,high,low,5,namecheap,,,23/09/2026 20:16
 aa53d7c9-464c-4152-bda3-a97563446be5,greetings.bike,available,14.99,,high,low,9,name.com,,,
 14c880e1-90c7-4df3-98b8-92b473a9c657,birretta.bike,available,12.99,38.99,medium,low,8,namesilo,,,23/09/2026 10:09
-afb42eac-9f57-46e8-b8a6-24e200738c1a,victim.bike,available,14.99,,high,low,6,name.com,,,
+afb42eac-9f57-46e8-b8a6-24e200738c1a,victim.bike,available,12.99,38.99,high,low,6,namesilo,,,29/09/2026 17:12
 1e79cfca-5472-4708-bf8f-58d34e8b3551,boxers.bike,available,5.38,31.25,high,low,6,spaceship,,,29/09/2026 03:50
 79588620-a97d-4270-a1ca-cef038f76567,two.bike,premium,242,242,high,low,3,namesilo,,,28/09/2026 12:14
 7346bf23-d66d-481d-9fee-4df9222f9680,artless.bike,available,5.98,48.98,medium,low,7,namecheap,,,06/08/2026 23:47
 aa0d2cd9-507c-4b32-9d29-ad68d0aba39e,salary.bike,available,14.99,,high,low,6,name.com,,,
 f2ba6129-be2c-4a59-8f2f-c7a59245ec4c,bazaar.bike,available,5.98,48.98,high,low,6,namecheap,,,22/09/2026 18:20
 8c36edc0-ea0e-4304-9fe3-db202d8dd246,antonymous.bike,available,5.98,48.98,medium,low,10,namecheap,,,05/08/2026 20:16
+dfae9018-15da-4610-884f-5aa0383dcbe7,peaks.bike,available,12.99,38.99,high,low,5,namesilo,,,29/09/2026 17:03
 8f048c5a-73f9-4b53-bacf-59c38dae372f,vanguard.bike,available,,,high,high,8,,,,
 0a73ad8a-11da-4d55-b476-cccf447a99f8,relevance.bike,available,14.99,,high,low,9,name.com,,,
 103fab92-62f7-4957-a4da-358c73470d18,soaking.bike,available,5.98,48.98,medium,low,7,namecheap,,,14/09/2026 14:28
@@ -854,7 +913,7 @@ e2ca1827-bf3f-49b5-b754-0ca188d7c65d,caliber.bike,available,12.99,38.99,high,low
 0724ae65-7495-462a-a63d-bf1703bdba75,kurt.bike,available,12.99,38.99,high,low,4,namesilo,,,25/09/2026 13:27
 153e18cf-2d1c-44fe-bf0f-f3090dc1ba9b,proponent.bike,available,12.99,38.99,high,low,9,namesilo,,,17/09/2026 11:45
 7a003432-51fe-483d-bbca-81996fc09690,cracked.bike,available,12.99,38.99,high,low,7,namesilo,,,22/09/2026 01:30
-264a94a7-493f-478e-943b-6026e5ef9357,enforcement.bike,available,5.98,48.98,medium,low,11,namecheap,,,28/09/2026 08:21
+264a94a7-493f-478e-943b-6026e5ef9357,enforcement.bike,available,5.98,48.98,high,low,11,namecheap,,,28/09/2026 08:21
 9b10fa33-2f1d-4df1-a554-774acecf73c0,ire.bike,premium,85.8,85.8,medium,low,3,namecheap,,,19/09/2026 06:05
 7c71f5a6-b5c5-4c26-8710-39708fe5b65c,repressed.bike,available,5.98,48.98,medium,low,9,namecheap,,,08/09/2026 14:49
 7711b822-d1d2-4dc0-a92a-1e945610b2ac,anselm.bike,available,12.99,38.99,medium,low,6,namesilo,,,19/09/2026 12:02
@@ -865,8 +924,9 @@ a9e10254-ac64-40bc-bd0d-a3a1f3e2ef3f,oxidative.bike,available,5.98,48.98,medium,
 836dd24f-6793-4948-bc88-c10d2a30ef88,bigamy.bike,available,12.99,38.99,medium,low,6,namesilo,,,23/09/2026 15:03
 f655a712-5f02-42d8-900e-649480495856,unowned.bike,available,5.98,48.98,medium,low,7,namecheap,,,04/09/2026 22:16
 fc6f2b67-bac7-4014-80d1-168619b49911,responsive.bike,available,5.98,48.98,high,low,10,namecheap,,,22/09/2026 06:49
+fb6d3c87-6db5-4fce-bb92-5099e5d63cd5,tribes.bike,available,30.2,30.2,high,low,6,cloudflare,,,29/09/2026 11:09
 e7d2ee38-93f9-46a6-9ff6-7f368a3530a9,mesozoic.bike,available,5.98,48.98,medium,low,8,namecheap,,,24/08/2026 21:21
-0d5c50f0-b072-4bda-bc23-836251e046e4,holes.bike,available,14.99,,medium,low,5,name.com,,,
+0d5c50f0-b072-4bda-bc23-836251e046e4,holes.bike,available,14.99,,high,low,5,name.com,,,
 f2549aa7-26f4-4a68-83a2-5fca7a13bc3d,complexly.bike,available,5.98,48.98,medium,low,9,namecheap,,,14/09/2026 07:45
 917a0047-3f0f-47f3-bb6e-1e473bda5243,righted.bike,available,12.99,38.99,medium,low,7,namesilo,,,20/09/2026 15:58
 85154fe4-55f3-45d8-9fc8-a1cd486f6254,reminds.bike,available,12.99,38.99,medium,low,7,namesilo,,,27/09/2026 03:09
@@ -886,6 +946,7 @@ a0f0c4f5-afa4-4643-afd0-f6e4db6efdb6,belted.bike,available,5.98,48.98,medium,low
 c7242989-62d2-4483-acc2-79dc5081ca5b,renal.bike,available,5.98,48.98,medium,low,5,namecheap,,,09/09/2026 13:51
 d0c11e65-8487-4916-bab7-f59fa5b2eaf5,lunger.bike,available,5.98,48.98,medium,low,6,namecheap,,,12/08/2026 23:06
 ce6b4fba-60c8-4638-95da-dd5bccefc220,shucks.bike,available,14.99,50.99,medium,low,6,name.com,,,13/08/2026 16:16
+acbd2e28-6eaa-43e4-a67b-02eb59c0bcd4,commissioned.bike,available,12,,medium,low,12,unstoppable,,,29/09/2026 23:15
 22cb06fa-da0c-4854-9c3c-a130e6b26337,ballroom.bike,available,8.24,32.21,high,low,8,dynadot,,,29/09/2026 00:49
 02c1c777-2d2d-40d9-b513-78157a9b7353,desecrated.bike,available,5.98,48.98,medium,low,10,namecheap,,,14/08/2026 03:18
 25ee7079-4301-46bf-9ca3-ab4816a7bc5c,agaragar.bike,available,5.98,48.98,medium,low,9,namecheap,,,17/09/2026 16:15
@@ -893,8 +954,8 @@ ce6b4fba-60c8-4638-95da-dd5bccefc220,shucks.bike,available,14.99,50.99,medium,lo
 233d1608-a47b-42c9-ac8d-4e6503068e69,antinode.bike,available,12.99,38.99,medium,low,8,namesilo,,,19/09/2026 14:48
 f35a8811-3ac2-4247-a747-462eaf641a66,studied.bike,available,5.98,48.98,high,low,7,namecheap,,,10/09/2026 22:59
 cca05dd1-1d3a-4a82-a908-135d9767c71d,arcturus.bike,available,5.98,48.98,medium,low,8,namecheap,,,20/09/2026 03:01
-ba4c037d-5e90-4c7d-88ce-119884e8f042,arty.bike,available,5.98,48.98,medium,low,4,namecheap,,,06/08/2026 23:51
-331b2a1b-fa9f-461f-9ed0-ee00986717c2,kindled.bike,available,5.98,48.98,medium,low,7,namecheap,,,17/08/2026 09:33
+ba4c037d-5e90-4c7d-88ce-119884e8f042,arty.bike,available,5.98,48.98,high,low,4,namecheap,,,06/08/2026 23:51
+331b2a1b-fa9f-461f-9ed0-ee00986717c2,kindled.bike,available,5.98,48.98,high,low,7,namecheap,,,17/08/2026 09:33
 e88ac881-9544-455a-8bfd-2baf64f9d0a7,unredeemed.bike,available,5.98,48.98,medium,low,10,namecheap,,,12/09/2026 17:55
 7c186e01-bfd1-4bfa-8329-ed921b62b7bc,susquehanna.bike,available,12.99,38.99,medium,low,11,namesilo,,,27/09/2026 01:59
 d5f155e9-237b-4717-b86e-94d2be66c84c,laggard.bike,available,5.98,48.98,medium,low,7,namecheap,,,14/08/2026 07:32
@@ -907,8 +968,8 @@ d0856358-7b97-40f4-8db6-19294f540a15,illinois.bike,resell,,,high,low,8,"GoDaddy.
 17183001-71fb-40b0-b182-1f88ba8ac341,surgeon.bike,available,12.99,38.99,high,low,7,namesilo,,,25/09/2026 23:55
 a17505f7-db8d-488f-8e3a-a5a0120b89d4,beechnut.bike,available,5.98,48.98,medium,low,8,namecheap,,,23/09/2026 00:13
 51b1c4d1-0efa-48b8-929c-a7a6b6a3a749,coral.bike,available,12.99,38.99,high,low,5,namesilo,,,23/09/2026 23:19
-65df0690-20a8-477b-8f57-82fe6a2646fd,humanely.bike,available,5.98,48.98,medium,low,8,namecheap,,,15/09/2026 01:17
-2cb3cb87-e2c4-4c37-a1e1-8794624ca75d,electoral.bike,available,5.98,48.98,medium,low,9,namecheap,,,16/08/2026 02:37
+65df0690-20a8-477b-8f57-82fe6a2646fd,humanely.bike,available,5.98,48.98,high,low,8,namecheap,,,15/09/2026 01:17
+2cb3cb87-e2c4-4c37-a1e1-8794624ca75d,electoral.bike,available,5.98,48.98,high,low,9,namecheap,,,16/08/2026 02:37
 c8a2a8f8-2ff6-4bbb-bdc3-13db757b7a76,proposal.bike,available,5.98,48.98,high,low,8,namecheap,,,27/09/2026 04:41
 0f6f50dc-47c4-4a61-8f2e-2367b7b3af28,shia.bike,available,12,,medium,low,4,unstoppable,,,29/09/2026 02:12
 1a7ba980-db50-45de-bee9-36c92e735c89,replace.bike,available,9.99,67.99,high,low,7,godaddy,,,28/09/2026 01:47
@@ -932,70 +993,9 @@ b7a2d79b-0727-44dc-ac87-097ac18df794,nonwhite.bike,available,14.99,50.99,medium,
 a4b95833-082b-409b-845c-d4632388d45e,weepy.bike,available,5.98,48.98,medium,low,5,namecheap,,,13/09/2026 10:06
 64a23188-1c9d-4581-b87e-b41ca3ae812b,equable.bike,available,5.98,48.98,medium,low,7,namecheap,,,17/08/2026 11:33
 d6445ef8-4cdf-4d9c-b0bd-719156b5e8d6,sandfish.bike,available,12.99,38.99,medium,low,8,namesilo,,,22/09/2026 19:42
-f65ee6b4-7f26-49a2-940e-b5ed54c437f3,poached.bike,available,5.98,48.98,medium,low,7,namecheap,,,10/08/2026 17:34
+f65ee6b4-7f26-49a2-940e-b5ed54c437f3,poached.bike,available,5.98,48.98,high,low,7,namecheap,,,10/08/2026 17:34
+7e5a0918-42bc-42ec-a3a6-87a277e8e449,quoting.bike,available,8.24,31.41,high,low,7,porkbun,,,29/09/2026 21:25
 c9714e7f-7377-4041-bcf2-5d26075b4689,racetrack.bike,available,14.99,,high,low,10,name.com,,,
 a99e9f17-25c0-4219-94c1-a818667ea7c9,tilted.bike,available,5.98,48.98,high,low,6,namecheap,,,07/08/2026 13:29
 783575e0-3f96-45cd-91cc-88caf3351169,pith.bike,available,5.98,48.98,high,low,4,namecheap,,,14/09/2026 23:55
 d073f954-5577-4196-806b-c65a374c7ef2,entangled.bike,available,5.98,48.98,medium,low,9,namecheap,,,16/08/2026 13:26
-c6a8133b-65c2-4367-a90d-77135047dd7c,noel.bike,available,12.99,38.99,high,low,4,namesilo,,,24/09/2026 14:54
-6b1159bc-90f8-443d-9e51-bef4e9743d75,biaxal.bike,available,5.98,48.98,medium,low,6,namecheap,,,09/08/2026 18:46
-13c83339-7da4-4448-83ce-d4333e9fd1f3,mimetic.bike,available,5.98,48.98,medium,low,7,namecheap,,,24/08/2026 23:27
-107f0e27-6e74-4d7e-8f08-47b4c0f154e6,pulse.bike,resell,,,high,high,5,"NameCheap, Inc.",25/11/2025 04:26,25/11/2026 04:26,26/09/2026 08:25
-42e1d8f0-d4b8-4fdc-b3dc-767e9877a16b,appearing.bike,available,5.98,48.98,high,low,9,namecheap,,,19/09/2026 20:25
-f56c3d60-c61e-4779-80be-22093603030c,sully.bike,available,5.98,48.98,medium,low,5,namecheap,,,24/08/2026 12:51
-8dd2a79b-638e-4fdf-a6bf-6649a4b903c9,evenfall.bike,available,5.98,48.98,medium,low,8,namecheap,,,11/09/2026 21:46
-c7c3a86e-2b23-492b-a808-0fe894f2fb0c,begin.bike,available,12.99,38.99,high,low,5,namesilo,,,28/09/2026 08:26
-94afee4a-e9ed-4c0e-8814-302ed1e714f2,cognizance.bike,available,12.99,38.99,high,low,10,namesilo,,,21/09/2026 09:59
-5a54dd84-d558-4f82-8aa6-cb831ae30c63,bast.bike,available,12.99,38.99,medium,low,4,namesilo,,,22/09/2026 12:38
-0d2c4042-4b38-4431-bf6b-d84d0319d4b5,agree.bike,available,12.99,38.99,high,low,5,namesilo,,,28/09/2026 17:26
-f6d90604-a94b-4f87-a964-c37eb689a81b,beigel.bike,available,5.98,48.98,high,low,6,namecheap,,,21/09/2026 17:54
-a94d61fb-95b2-42d2-af8a-a1e95bbb9a3a,thorn.bike,available,12.99,38.99,high,low,5,namesilo,,,28/09/2026 02:10
-431027fe-9d87-4635-bb88-e26527b99246,inspect.bike,available,12.99,38.99,high,low,7,namesilo,,,21/09/2026 03:08
-d19780d4-091f-49d4-a834-e195b5b9622d,ternion.bike,available,5.98,48.98,medium,low,7,namecheap,,,
-ff686b9b-ebe2-4062-9503-d46033aa60d6,sauna.bike,available,14.99,,high,low,5,name.com,,,
-98056660-689a-40e4-84f2-54e4bd6a688d,auditor.bike,available,5.98,48.98,high,low,7,namecheap,,,21/09/2026 01:32
-5f18704b-e710-4380-b140-1f3002b97dec,replies.bike,available,12.99,38.99,medium,low,7,namesilo,,,18/09/2026 09:15
-670e4ef0-6da7-42a7-b205-638753a84d7a,unfunded.bike,available,5.98,48.98,medium,low,8,namecheap,,,12/09/2026 11:04
-e0e645ab-94cc-4b33-9218-ebfaf7752fdb,dressed.bike,available,12.99,38.99,high,low,7,namesilo,,,22/09/2026 07:16
-faaaaa0e-f469-4b28-84d0-b2dfee97e6b2,outlandish.bike,available,5.98,48.98,medium,low,10,namecheap,,,10/08/2026 10:37
-4708fa80-5098-461e-b75a-61ae62ae5dbc,indecent.bike,available,14.99,50.99,medium,low,8,name.com,,,25/09/2026 09:06
-65ec13bd-25ef-4dff-a8f5-1f18bb01190e,invisibly.bike,available,5.98,48.98,medium,low,9,namecheap,,,15/09/2026 09:10
-b5b990bc-fcb2-49e3-b733-a2fac0ed51a9,lingual.bike,available,5.98,48.98,medium,low,7,namecheap,,,23/08/2026 15:07
-3aef9714-02ae-4680-9c76-778978c39f29,categorical.bike,available,14.99,,medium,low,11,name.com,,,
-9327bd22-2e6c-4dc6-aa15-3d614683c483,quint.bike,available,5.98,48.98,medium,low,5,namecheap,,,
-379ad67a-afa6-443f-8c22-29f6e65a6fa2,prolix.bike,available,5.98,48.98,medium,low,6,namecheap,,,09/09/2026 03:04
-99df8518-0076-4842-a40e-574c254a1c09,amok.bike,available,5.98,48.98,high,low,4,namecheap,,,
-55a1c755-5ef9-46bd-87b6-4801511916a5,dragons.bike,available,5.38,31.25,medium,low,7,spaceship,,,28/09/2026 12:57
-1809a44a-94b6-41de-ba7b-514febafe029,amblyopia.bike,available,5.98,48.98,medium,low,9,namecheap,,,18/09/2026 17:11
-54deda7b-2bdd-42cd-81fa-5f9e25884334,downwind.bike,available,5.98,48.98,medium,low,8,namecheap,,,14/08/2026 18:03
-61309b59-28b4-495e-a044-cf19d05381e3,hbo.bike,available,,,high,medium,3,,,,
-43a24612-e84f-49a9-b894-74ae2946acbf,plague.bike,available,5.38,31.25,medium,low,6,spaceship,,,29/09/2026 02:58
-0551f27d-f28e-454b-8e9f-61d9d0bf4bcb,calender.bike,available,14.99,,high,low,8,name.com,,,
-c088e579-2b18-4ba2-82fe-78c09dcd175b,harassed.bike,available,5.98,48.98,medium,low,8,namecheap,,,21/08/2026 00:06
-13fe077f-6961-479f-a8a2-92b7a5af2031,dexterous.bike,available,5.98,48.98,high,low,9,namecheap,,,13/08/2026 23:51
-55f821f7-18dc-49e3-9fc2-269338b63af3,described.bike,available,12.99,38.99,high,low,9,namesilo,,,24/09/2026 06:37
-ca52aaf0-d17f-4962-87f7-fc73e38c5ad7,discharge.bike,available,12.99,38.99,high,low,9,namesilo,,,20/09/2026 01:05
-c29e7b1e-2344-4c4d-9bb2-daa328fedd7d,beecher.bike,available,12.99,38.99,medium,low,7,namesilo,,,23/09/2026 00:12
-c9d9a61a-fbc4-4b0b-9305-c240bd4ffcaa,vented.bike,available,5.98,48.98,medium,low,6,namecheap,,,13/09/2026 02:12
-a010f0a7-3e0b-4f23-8ba2-64bebf7e9455,shriek.bike,available,5.98,48.98,medium,low,6,namecheap,,,09/09/2026 23:53
-b069e10c-e5cb-40a0-85b6-a337ab9b5797,published.bike,available,12.99,38.99,high,low,9,namesilo,,,27/09/2026 07:35
-ad39bd2f-c91d-44a4-866e-75f2827fc5cc,undisputed.bike,available,5.98,48.98,high,low,10,namecheap,,,12/09/2026 05:02
-916a2882-6bc2-4593-8765-9566da920ce2,woodruff.bike,available,12.99,38.99,medium,low,8,namesilo,,,20/09/2026 15:04
-053c9ba0-fd5b-4a16-a7c0-a927ba8aa97a,investors.bike,available,5.98,48.98,high,low,9,namecheap,,,
-8a277837-2a30-4608-b13f-1239833fc050,limited.bike,available,12.99,38.99,high,low,7,namesilo,,,23/09/2026 14:41
-0576d45f-eda0-454d-af3e-43722d1e6600,rotfl.bike,available,14.99,,medium,low,5,name.com,,,
-376db949-d4c1-4b8d-96e0-cdb9f47cfa02,bushes.bike,available,12,,medium,low,6,unstoppable,,,28/09/2026 23:23
-3445f3bf-7570-4efd-b200-d442856484ff,hollering.bike,available,12.99,38.99,medium,low,9,namesilo,,,23/09/2026 06:21
-1b5fa61e-987a-4a48-850e-2ba6bf0af52c,observe.bike,available,12.99,38.99,high,low,7,namesilo,,,25/09/2026 23:53
-e4e932f0-9c63-476a-8245-4c390609ec02,tijuana.bike,available,8.24,32.21,medium,low,7,dynadot,,,29/09/2026 02:18
-4d6c2fec-1b6c-4781-8269-3bc84b796638,bareback.bike,available,5.98,48.98,medium,low,8,namecheap,,,08/08/2026 18:38
-0b387f8d-c790-4336-8da3-ce63a637fc97,civilized.bike,available,5.98,48.98,high,low,9,namecheap,,,12/08/2026 09:06
-a9dfc48d-d368-4615-9e20-5cbacf54fd5d,rodriguez.bike,premium,68.51,68.51,medium,low,9,spaceship,,,28/09/2026 22:21
-469ff594-f12b-4c46-ad67-b5550d418e51,amylum.bike,available,12.99,38.99,medium,low,6,namesilo,,,19/09/2026 00:32
-a8965fc1-206c-4656-9314-5fe67e05f45a,ambrosian.bike,available,5.98,48.98,medium,low,9,namecheap,,,
-9de5e59e-75a5-4c5d-afd1-02f2982b39de,condor.bike,available,12.99,38.99,high,low,6,namesilo,,,24/09/2026 17:10
-b4dff5e6-63c7-458d-8624-0f3117d3b329,lascivious.bike,available,5.98,48.98,medium,low,10,namecheap,,,22/08/2026 20:04
-48b6a0e1-5544-4308-95db-836917858866,owing.bike,available,14.99,,medium,low,5,name.com,,,
-f0522d37-d9e5-463e-8368-c2d848b98c46,winterhaven.bike,available,14.99,,medium,low,12,name.com,,,
-d205bfa4-456d-4656-9e4f-7206ef4bc4f0,abby.bike,available,12.99,38.99,high,low,4,namesilo,,,27/09/2026 07:09
-7d9c2518-cb30-460f-8e26-812ba051b0c8,epicure.bike,available,5.98,48.98,high,low,7,namecheap,,,17/08/2026 10:42
